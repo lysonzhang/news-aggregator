@@ -2,8 +2,10 @@ name: 每日新闻更新
 
 on:
   schedule:
-    - cron: '0 2 * * *'   # UTC时间，每天凌晨2点（北京时间早上10点）
+    - cron: '0 0,8 * * *'   # UTC时间，每天凌晨0点和8点（北京时间早上10点）
   workflow_dispatch:      # 手动触发测试
+  permissions:
+    contents: write
 
 jobs:
   update:
