@@ -1,53 +1,13 @@
 {
-  "update_time": "2026-03-18T10:34:06.594076",
+  "update_time": "2026-03-18T03:49:51.668126",
   "total": 33,
   "news": [
     {
       "source": "CNN Tech",
       "title": "",
-      "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
-      "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-03-18T10:34:06.594076",
-      "category": "科技"
-    },
-    {
-      "source": "CNN Tech",
-      "title": "",
-      "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
-      "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-03-18T10:34:06.594076",
-      "category": "实时热点"
-    },
-    {
-      "source": "CNN Tech",
-      "title": "",
-      "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
-      "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-03-18T10:34:06.594076",
-      "category": "科技"
-    },
-    {
-      "source": "CNN Tech",
-      "title": "",
-      "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
-      "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-03-18T10:34:06.594076",
-      "category": "实时热点"
-    },
-    {
-      "source": "CNN Tech",
-      "title": "",
-      "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
-      "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-03-18T10:34:06.594076",
-      "category": "实时热点"
-    },
-    {
-      "source": "CNN Tech",
-      "title": "",
-      "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
-      "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-03-18T10:34:06.594076",
+      "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
+      "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
+      "date": "2026-03-18T03:49:51.668070",
       "category": "实时热点"
     },
     {
@@ -55,32 +15,80 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-03-18T10:34:06.594076",
+      "date": "2026-03-18T03:49:51.668064",
       "category": "科技"
     },
     {
       "source": "CNN Tech",
       "title": "",
-      "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
-      "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-03-18T10:34:06.594076",
+      "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
+      "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
+      "date": "2026-03-18T03:49:51.668048",
       "category": "实时热点"
+    },
+    {
+      "source": "CNN Tech",
+      "title": "",
+      "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
+      "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
+      "date": "2026-03-18T03:49:51.668034",
+      "category": "实时热点"
+    },
+    {
+      "source": "CNN Tech",
+      "title": "",
+      "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
+      "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
+      "date": "2026-03-18T03:49:51.668023",
+      "category": "实时热点"
+    },
+    {
+      "source": "CNN Tech",
+      "title": "",
+      "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
+      "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
+      "date": "2026-03-18T03:49:51.668015",
+      "category": "科技"
+    },
+    {
+      "source": "CNN Tech",
+      "title": "",
+      "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
+      "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
+      "date": "2026-03-18T03:49:51.667998",
+      "category": "实时热点"
+    },
+    {
+      "source": "CNN Tech",
+      "title": "",
+      "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
+      "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
+      "date": "2026-03-18T03:49:51.667982",
+      "category": "科技"
     },
     {
       "source": "CNN Top Stories",
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-03-18T10:34:04.119407",
+      "date": "2026-03-18T03:49:51.146173",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
-      "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-18T02:12:16",
+      "title": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
+      "summary": "Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their final defeat to Senegal.",
+      "link": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-18T03:24:20",
       "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Rayner warns immigration reforms risk being 'un-British'",
+      "summary": "Most migrant workers will have to wait longer to qualify for permanent residence under the government's proposals.",
+      "link": "https://www.bbc.com/news/articles/c7434xv1pmeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-18T02:20:51",
+      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -89,14 +97,6 @@
       "link": "https://www.bbc.com/news/articles/czr0zmzzp84o?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-18T01:57:13",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
-      "summary": "Morocco declared the winners of the 2025 Africa Cup of Nations after the Confederation of African Football overturns the result of their final defeat to Senegal.",
-      "link": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-18T00:23:36",
-      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -132,7 +132,7 @@
     },
     {
       "source": "BBC News",
-      "title": "'Explosive' meningitis outbreak unprecedented – officials",
+      "title": "'Explosive' meningitis outbreak is unprecedented, officials say",
       "summary": "Officials confirm 15 cases of meningitis following an outbreak in Kent, in which two people died.",
       "link": "https://www.bbc.com/news/articles/cev7rl437epo?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-17T21:54:24",
