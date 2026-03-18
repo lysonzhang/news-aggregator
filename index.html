@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>全球新闻聚合站 - 每日自动更新</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <style>
+    .card { transition: all 0.3s; }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1); }
+    .tab-active { border-bottom: 3px solid #3b82f6; color: #3b82f6; }
+  </style>
+</head>
+<body class="bg-gray-50 font-sans">
+  <div class="max-w-7xl mx-auto p-4 md:p-6">
+    <!-- 头部 -->
+    <div class="flex flex-col md:flex-row justify-between items-center mb-8 gap-4">
+      <h1 class="text-3xl font-bold text-blue-600 flex items-center gap-2">
+        <i class="fas fa-globe"></i> 全球最新资讯
+      </h1>
+      <div class="text-sm text-gray-500">更新时间: <span id="update-time"></span></div>
+      <!-- 搜索框 -->
+      <div class="relative w-full max-w-md">
+        <input id="search-input" type="text" 
+               class="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-full focus:outline-none focus:border-blue-500 text-lg"
+               placeholder="🔍 搜索标题或关键词（支持中文）...">
+        <i class="fas fa-search absolute left-4 top-1/2 -translate-y-1/2 text-gray-400"></i>
+      </div>
+    </div>
+
+    <!-- 分类Tab -->
+    <div class="flex flex-wrap gap-2 mb-6 border-b pb-2" id="tabs">
+      <button data-category="全部" class="tab px-6 py-2 font-medium tab-active">全部</button>
+      <button data-category="民生" class="tab px-6 py-2 font-medium">民生</button>
+      <button data-category="科技" class="tab px-6 py-2 font-medium">科技</button>
+      <button data-category="财金" class="tab px-6 py-2 font-medium">财金</button>
+      <button data-category="实时热点" class="tab px-6 py-2 font-medium">实时热点</button>
+    </div>
+
+    <!-- 新闻卡片网格 -->
+    <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- JS动态填充 -->
+    </div>
+  </div>
+
+  <script>
+    let allNews = [];
+    let currentCategory = "全部";
+
+    async function loadNews() {
+      try {
+        const res = await fetch('latest_news.json');
+        const data = await res.json();
+        allNews = data.news || [];
+        document.getElementById('update-time').textContent = new Date(data.update_time).toLocaleString('zh-CN');
+        renderCards();
+      } catch (e) {
+        document.getElementById('news-grid').innerHTML = `<p class="col-span-full text-center text-red-500">⚠️ 请确保 latest_news.json 已生成并上传</p>`;
+      }
+    }
+
+    function renderCards(filteredNews = null) {
+      const grid = document.getElementById('news-grid');
+      grid.innerHTML = '';
+      const newsToShow = filteredNews || allNews;
+
+      if (newsToShow.length === 0) {
+        grid.innerHTML = `<p class="col-span-full text-center py-12 text-gray-500">没有找到匹配的新闻～</p>`;
+        return;
+      }
+
+      newsToShow.forEach(item => {
+        const card = document.createElement('div');
+        card.className = `card bg-white rounded-2xl overflow-hidden border border-gray-100`;
+        card.innerHTML = `
+          <div class="p-5">
+            <div class="flex gap-2 mb-3">
+              <span class="px-3 py-1 text-xs font-medium bg-blue-100 text-blue-600 rounded-full">${item.source}</span>
+              <span class="px-3 py-1 text-xs font-medium bg-gray-100 text-gray-600 rounded-full">${item.category}</span>
+            </div>
+            <a href="${item.link}" target="_blank" class="block hover:text-blue-600">
+              <h3 class="text-xl font-semibold leading-tight mb-3 line-clamp-2">${item.title}</h3>
+            </a>
+            <p class="text-gray-600 text-sm line-clamp-3 mb-4">${item.summary}</p>
+            <div class="text-xs text-gray-400 flex justify-between">
+              <span>${new Date(item.date).toLocaleDateString('zh-CN')}</span>
+              <a href="${item.link}" target="_blank" class="text-blue-500 hover:underline flex items-center gap-1">
+                阅读全文 <i class="fas fa-arrow-right"></i>
+              </a>
+            </div>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    // Tab切换
+    document.getElementById('tabs').addEventListener('click', e => {
+      if (e.target.tagName === 'BUTTON') {
+        document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('tab-active'));
+        e.target.classList.add('tab-active');
+        currentCategory = e.target.dataset.category;
+        filterNews();
+      }
+    });
+
+    // 搜索（实时中文过滤）
+    let timeout;
+    document.getElementById('search-input').addEventListener('input', () => {
+      clearTimeout(timeout);
+      timeout = setTimeout(filterNews, 300);
+    });
+
+    function filterNews() {
+      const query = document.getElementById('search-input').value.toLowerCase().trim();
+      let filtered = allNews;
+
+      if (currentCategory !== "全部") {
+        filtered = filtered.filter(item => item.category === currentCategory);
+      }
+      if (query) {
+        filtered = filtered.filter(item => 
+          (item.title + item.summary).toLowerCase().includes(query)
+        );
+      }
+      renderCards(filtered);
+    }
+
+    // 启动
+    loadNews();
+  </script>
+</body>
+</html>
