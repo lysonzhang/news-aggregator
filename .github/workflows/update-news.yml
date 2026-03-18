@@ -1,0 +1,33 @@
+name: 每日新闻更新
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # UTC时间，每天凌晨2点（北京时间早上10点）
+  workflow_dispatch:      # 手动触发测试
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 设置Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install feedparser
+
+      - name: 运行采集脚本
+        run: python fetch_news.py   # 您的采集脚本文件名（需与仓库一致）
+
+      - name: 提交更新
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add latest_news.json
+          git commit -m "自动更新新闻 $(date +%Y-%m-%d)" || echo "No changes"
+          git push
