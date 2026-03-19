@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-03-19T02:27:05.355641",
+  "update_time": "2026-03-19T08:44:51.945187",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-03-19T02:27:05.355561",
+      "date": "2026-03-19T08:44:51.945129",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-03-19T02:27:05.355553",
+      "date": "2026-03-19T08:44:51.945123",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-03-19T02:27:05.355532",
+      "date": "2026-03-19T08:44:51.945107",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-03-19T02:27:05.355515",
+      "date": "2026-03-19T08:44:51.945093",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-03-19T02:27:05.355501",
+      "date": "2026-03-19T08:44:51.945082",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-03-19T02:27:05.355492",
+      "date": "2026-03-19T08:44:51.945074",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-03-19T02:27:05.355471",
+      "date": "2026-03-19T08:44:51.945057",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-03-19T02:27:05.355437",
+      "date": "2026-03-19T08:44:51.945039",
       "category": "科技"
     },
     {
@@ -71,40 +71,64 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-03-19T02:27:04.896251",
+      "date": "2026-03-19T08:44:51.493816",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "US aircraft carrier to sail to Crete for repairs after fire on board",
-      "summary": "The USS Gerald R Ford has played a significant role in US operations during the war with Iran.",
-      "link": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-19T00:44:57",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Impact of Iran war expected to bring hold in interest rates",
-      "summary": "Before the conflict began, analysts had expected a cut in the Bank rate at this meeting.",
-      "link": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-19T00:10:32",
+      "title": "Pay grows at slowest rate in more than five years",
+      "summary": "Annual earnings grew at an annual rate of 3.8% in the November to January period, the Office for National Statistics says.",
+      "link": "https://www.bbc.com/news/articles/cn0z0x82r00o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-19T08:05:59",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "UK sets target to boost steel making and cut imports",
-      "summary": "Up to half of steel used in Britain should be made there, the government says, as it announces its steel strategy.",
-      "link": "https://www.bbc.com/news/articles/c98q8q4zl8qo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-19T00:04:46",
-      "category": "科技"
+      "title": "Better NHS care might have saved 58 babies, BBC finds",
+      "summary": "There are growing calls for a statutory public inquiry into maternity services in Oxford.",
+      "link": "https://www.bbc.com/news/articles/cz9qq8d7l1ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-19T07:47:55",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Sadiq Khan says Labour should pledge to rejoin EU",
-      "summary": "Downing Street has repeatedly said the government will not rejoin the single market or customs union.",
-      "link": "https://www.bbc.com/news/articles/c62g2e08jpno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-18T23:45:37",
-      "category": "科技"
+      "title": "How the Iran war has left Europe facing yet another energy crisis",
+      "summary": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe.",
+      "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-19T05:59:49",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "All doctors in England warned to watch for meningitis symptoms after Kent outbreak",
+      "summary": "Health workers across England are urged to look out for signs of infection as thousands have jabs.",
+      "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-19T04:17:14",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Child seen in sex abuse videos identified after researcher spots school badge",
+      "summary": "An analyst tells the BBC how she tracked down a victim of child sexual abuse after years of searching.",
+      "link": "https://www.bbc.com/news/articles/cvgj22e7qwyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-19T03:21:12",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "World's longest coastal path opens in England",
+      "summary": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.",
+      "link": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-19T02:36:02",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "'Designer' dog owners report more problem behaviours, vets warn",
+      "summary": "The Royal Veterinary College says popular \"doodle\" dogs do not always behave as expected.",
+      "link": "https://www.bbc.com/news/articles/cwyx81517jxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-19T01:53:52",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -112,30 +136,6 @@
       "summary": "Counter Terrorism Policing had been investigating alleged surveillance of locations and individuals linked to London's Jewish community.",
       "link": "https://www.bbc.com/news/articles/cwygyvrwq89o?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-18T21:58:34",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "King praises 'living bridge' with Nigeria at glitzy banquet",
-      "summary": "At the state banquet in Windsor Castle, King Charles praises the UK's partnership with Nigeria.",
-      "link": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-18T21:24:14",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "All doctors in England warned to watch for meningitis symptoms after Kent outbreak",
-      "summary": "Health workers across England are urged to look out for signs of infection as thousands have jabs.",
-      "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-18T18:41:54",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Why has this meningitis outbreak spread so fast?",
-      "summary": "There have been 20 cases since the weekend in one small area of Kent - but this isn't the normal pattern, so what could have happened?",
-      "link": "https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-18T16:34:33",
       "category": "实时热点"
     },
     {
