@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-03-21T02:07:09.567194",
+  "update_time": "2026-03-21T08:36:08.256122",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-03-21T02:07:09.567128",
+      "date": "2026-03-21T08:36:08.256045",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-03-21T02:07:09.567122",
+      "date": "2026-03-21T08:36:08.256039",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-03-21T02:07:09.567106",
+      "date": "2026-03-21T08:36:08.256023",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-03-21T02:07:09.567092",
+      "date": "2026-03-21T08:36:08.256008",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-03-21T02:07:09.567081",
+      "date": "2026-03-21T08:36:08.255997",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-03-21T02:07:09.567073",
+      "date": "2026-03-21T08:36:08.255989",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-03-21T02:07:09.567056",
+      "date": "2026-03-21T08:36:08.255972",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-03-21T02:07:09.567040",
+      "date": "2026-03-21T08:36:08.255954",
       "category": "科技"
     },
     {
@@ -71,7 +71,15 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-03-21T02:07:08.852547",
+      "date": "2026-03-21T08:36:07.763346",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "UK allows US to use bases to strike Strait of Hormuz targets",
+      "summary": "Downing Street says ministers approved the expansion after accusing Iran of \"reckless strikes\".",
+      "link": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-21T07:31:54",
       "category": "科技"
     },
     {
@@ -116,27 +124,19 @@
     },
     {
       "source": "BBC News",
-      "title": "UK allows US to use bases to strike Strait of Hormuz targets",
-      "summary": "Downing Street said ministers approved the expansion after accusing Iran of \"reckless strikes\".",
-      "link": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-20T20:22:08",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Dame Jenni Murray, former BBC Woman's Hour presenter, dies at 75",
-      "summary": "She was the Radio 4 programme's longest-serving presenter, having left in 2020 after 33 years.",
-      "link": "https://www.bbc.com/news/articles/cpwj8e25ddgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-20T18:34:23",
+      "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+      "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+      "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-20T22:34:05",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Work from home and drive more slowly to save energy, global body urges",
-      "summary": "People should change how they travel, work and cook to tackle the energy price crisis, the International Energy Agency says.",
-      "link": "https://www.bbc.com/news/articles/cvg4540d0g4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-20T15:05:03",
-      "category": "民生"
+      "title": "Watch: Israeli strike next to British journalist is not AI-generated",
+      "summary": "The video of the strike, hitting just metres from RT's Steve Sweeney and his crew, was recorded on Thursday in southern Lebanon.",
+      "link": "https://www.bbc.com/news/videos/c62k8xgjkggo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-20T18:52:38",
+      "category": "科技"
     },
     {
       "source": "CNN Top Stories",
