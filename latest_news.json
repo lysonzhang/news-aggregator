@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-03-26T02:31:53.023181",
+  "update_time": "2026-03-26T08:59:16.462821",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-03-26T02:31:53.023121",
+      "date": "2026-03-26T08:59:16.462768",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-03-26T02:31:53.023114",
+      "date": "2026-03-26T08:59:16.462762",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-03-26T02:31:53.023084",
+      "date": "2026-03-26T08:59:16.462747",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-03-26T02:31:53.023070",
+      "date": "2026-03-26T08:59:16.462732",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-03-26T02:31:53.023059",
+      "date": "2026-03-26T08:59:16.462721",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-03-26T02:31:53.023051",
+      "date": "2026-03-26T08:59:16.462714",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-03-26T02:31:53.023034",
+      "date": "2026-03-26T08:59:16.462696",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-03-26T02:31:53.023017",
+      "date": "2026-03-26T08:59:16.462683",
       "category": "科技"
     },
     {
@@ -71,16 +71,40 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-03-26T02:31:52.648653",
+      "date": "2026-03-26T08:59:16.070504",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
-      "summary": "Trump's delayed meeting with Xi Jinping will be the first visit to China by a US president since 2017.",
-      "link": "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-26T01:42:26",
-      "category": "实时热点"
+      "title": "Men released on bail over Jewish charity ambulance arson attack",
+      "summary": "Four Jewish charity-owned ambulances were set alight in north London on Monday.",
+      "link": "https://www.bbc.com/news/articles/cx235y7v100o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-26T08:52:53",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "National Savings and Investments bank set to pay millions to customers over misplaced funds",
+      "summary": "The government-backed bank has been accused of a series of errors, including not paying bereaved families money that was rightfully theirs.",
+      "link": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-26T08:33:25",
+      "category": "财金"
+    },
+    {
+      "source": "BBC News",
+      "title": "Chris Mason: How will the UK respond to US court verdict on social media?",
+      "summary": "Will the decision of a Los Angeles jury have an impact on the UK government as it considers potential future regulations on social media, writes the BBC's political editor.",
+      "link": "https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-26T03:40:16",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Trump's Iran strategy is to pursue two off-ramps at once",
+      "summary": "The White House insists the president is dictating events, but even some Republicans are frustrated by mixed messaging about his war aims.",
+      "link": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-26T02:00:53",
+      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -92,15 +116,7 @@
     },
     {
       "source": "BBC News",
-      "title": "Parents should monitor children '24/7' on Roblox, says developer",
-      "summary": "Roblox said safety was a top priority and it had advanced safeguards in place to keep users safe.",
-      "link": "https://www.bbc.com/news/articles/cd6l07wwvlpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-26T00:31:33",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "British forces preparing to board Russian shadow fleet ships in UK waters",
+      "title": "British forces will be able to board Russian shadow fleet ships in UK waters",
       "summary": "The move will \"starve Putin's war machine\", Starmer says as he arrives in Finland for a military summit.",
       "link": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-25T23:03:55",
@@ -116,26 +132,10 @@
     },
     {
       "source": "BBC News",
-      "title": "Peers defy government by pushing for UK social media ban for under-16s",
-      "summary": "The government is consulting on whether the UK should follow Australia by introducing a ban.",
-      "link": "https://www.bbc.com/news/articles/ce84xjl0gx8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-25T22:45:43",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
       "title": "Harry Potter TV show trailer: Everything we know so far",
       "summary": "The HBO reboot, which is due in 2027, is a spin-off from the original books and the film franchise.",
       "link": "https://www.bbc.com/news/articles/cq6j20zp9n6o?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-25T22:01:55",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Calls for urgent inquiry into high street child abuse claims",
-      "summary": "Political leaders call for an urgent investigation into alleged child sexual exploitation after a BBC report.",
-      "link": "https://www.bbc.com/news/articles/cevkg7k01j2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-25T20:32:12",
       "category": "科技"
     },
     {
