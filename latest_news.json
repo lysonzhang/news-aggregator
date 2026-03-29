@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-03-29T02:36:03.209929",
+  "update_time": "2026-03-29T08:42:27.429576",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-03-29T02:36:03.209869",
+      "date": "2026-03-29T08:42:27.429521",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-03-29T02:36:03.209863",
+      "date": "2026-03-29T08:42:27.429515",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-03-29T02:36:03.209846",
+      "date": "2026-03-29T08:42:27.429499",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-03-29T02:36:03.209832",
+      "date": "2026-03-29T08:42:27.429484",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-03-29T02:36:03.209821",
+      "date": "2026-03-29T08:42:27.429473",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-03-29T02:36:03.209814",
+      "date": "2026-03-29T08:42:27.429466",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-03-29T02:36:03.209796",
+      "date": "2026-03-29T08:42:27.429448",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-03-29T02:36:03.209763",
+      "date": "2026-03-29T08:42:27.429434",
       "category": "科技"
     },
     {
@@ -71,24 +71,32 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-03-29T02:36:02.804518",
+      "date": "2026-03-29T08:42:26.844399",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Arrest after car strikes 'multiple' pedestrians in Derby - police",
-      "summary": "Derbyshire police says that the incident occurred in the city's centre at approximately 21:30 on Saturday.",
-      "link": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-29T01:44:36",
+      "title": "Antonelli wins to become youngest title leader",
+      "summary": "Kimi Antonelli takes his second win in succession and the lead of the world championship at the Japanese Grand Prix.",
+      "link": "https://www.bbc.com/sport/formula1/articles/c75k7kqdw6no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-29T07:38:27",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Schools do not have enough staff to make SEND reforms work, union warns",
-      "summary": "The National Education Union says schools need more funding to be able to make all classrooms inclusive.",
-      "link": "https://www.bbc.com/news/articles/c15dzz8z153o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-29T00:11:38",
-      "category": "民生"
+      "title": "No Kings protesters across the US rally against Donald Trump",
+      "summary": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen performed to crowds.",
+      "link": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-29T04:11:27",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Freya Ridings on buying a plane ticket and reclaiming her career: 'I felt like a naughty schoolchild'",
+      "summary": "The singer defied her team and fled to LA to record a new album. It was the best move she's ever made.",
+      "link": "https://www.bbc.com/news/articles/crr1wevpglqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-29T00:44:50",
+      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -100,15 +108,15 @@
     },
     {
       "source": "BBC News",
-      "title": "Trump is waging war based on instinct and it isn't working",
-      "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective.",
+      "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
+      "summary": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor.",
       "link": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-29T00:02:46",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "One ant for $220: the new frontier of wildlife trafficking",
+      "title": "One ant for $220: The new frontier of wildlife trafficking",
       "summary": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
       "link": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-29T00:01:15",
@@ -116,27 +124,19 @@
     },
     {
       "source": "BBC News",
+      "title": "Think Love Island is bad? Wait until you see the AI fruit version",
+      "summary": "Like in Love Island, the characters - or fruits - compete for a chance to couple up and stay on the island.",
+      "link": "https://www.bbc.com/news/articles/ckgr35y26q7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-29T00:00:05",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
       "title": "Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney",
-      "summary": "Hundreds of bakers head to Sydney's Botanic Gardens to share and savour their colourful creations.",
+      "summary": "Hundreds of bakers head to the city's botanic gardens to share and savour their colourful creations.",
       "link": "https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-28T21:04:30",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "'I was naive,' says minister who quit over Labour Together claims",
-      "summary": "Josh Simons resigned after facing claims a think tank he used to run commissioned a report into journalists' backgrounds.",
-      "link": "https://www.bbc.com/news/articles/cy8135ny182o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-28T17:59:46",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Another car crash and another arrest - what now for Tiger Woods?",
-      "summary": "BBC golf correspondent Iain Carter assesses where Tiger Woods' latest arrest leaves his legacy.",
-      "link": "https://www.bbc.com/sport/golf/articles/cn5322p5k99o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-28T11:56:47",
-      "category": "科技"
     },
     {
       "source": "CNN Top Stories",
