@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-03-31T02:33:28.557639",
+  "update_time": "2026-03-31T09:02:30.152474",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-03-31T02:33:28.557581",
+      "date": "2026-03-31T09:02:30.152400",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-03-31T02:33:28.557575",
+      "date": "2026-03-31T09:02:30.152393",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-03-31T02:33:28.557558",
+      "date": "2026-03-31T09:02:30.152358",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-03-31T02:33:28.557544",
+      "date": "2026-03-31T09:02:30.152343",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-03-31T02:33:28.557533",
+      "date": "2026-03-31T09:02:30.152332",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-03-31T02:33:28.557525",
+      "date": "2026-03-31T09:02:30.152324",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-03-31T02:33:28.557507",
+      "date": "2026-03-31T09:02:30.152306",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-03-31T02:33:28.557489",
+      "date": "2026-03-31T09:02:30.152287",
       "category": "科技"
     },
     {
@@ -71,24 +71,64 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-03-31T02:33:28.030319",
+      "date": "2026-03-31T09:02:29.506829",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Why the benefit used by over 8 million people may not be fit for the future",
-      "summary": "Can Universal Credit and the work and benefits system more generally reshape itself to meet a new reality?",
-      "link": "https://www.bbc.com/news/articles/c3r3w0w1gepo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-30T23:09:50",
+      "title": "Three charged with murder over death of girl, 16",
+      "summary": "Three people are due to appear in court over the death of Chloe Watson Dransfield in Leeds.",
+      "link": "https://www.bbc.com/news/articles/cn0w50dwd2jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-31T08:32:14",
       "category": "民生"
     },
     {
       "source": "BBC News",
-      "title": "PM gives BMA 48 hours to call-off strike or lose 1,000 training posts",
-      "summary": "Resident doctors announced a six-day strike in England next month after talks broke down last week.",
-      "link": "https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-30T22:47:13",
+      "title": "Hundreds of my abusers are still out there, says victim as grooming inquiry launched",
+      "summary": "There needs to be accountability for the failings that led to this mass exploitation of children in UK, says survivor.",
+      "link": "https://www.bbc.com/news/articles/cpvxr7wv74mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-31T08:10:54",
       "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Starmer gives doctors 48 hours to cancel strike or lose new jobs package",
+      "summary": "The prime minister says the NHS could lose 1,000 extra training places if resident doctors go ahead with a six-day strike next week.",
+      "link": "https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-31T06:50:04",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Scott Mills questioned by police in 2018 over sexual offence allegations against teenage boy",
+      "summary": "The case was dropped in 2019 after the CPS deemed there was insufficient evidence to bring charges, police say.",
+      "link": "https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-31T06:44:48",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "'Something wasn't right': Wrong sperm given to UK families by IVF clinics in northern Cyprus",
+      "summary": "Families of seven children believe the wrong sperm or egg donors were used in their IVF treatment.",
+      "link": "https://www.bbc.com/news/articles/c74v5jd5zkjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-31T04:54:51",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "New bin rules begin in England but not all councils are ready",
+      "summary": "Weekly food waste collections are required for all English homes as new legislation takes effect.",
+      "link": "https://www.bbc.com/news/articles/cn4vwj0yj20o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-30T23:41:43",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Why the benefit used by more than 8 million people may not be fit for the future",
+      "summary": "Can Universal Credit and the work and benefits system more generally reshape itself to meet a new reality?",
+      "link": "https://www.bbc.com/news/articles/c3r3w0w1gepo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-30T23:09:50",
+      "category": "民生"
     },
     {
       "source": "BBC News",
@@ -97,46 +137,6 @@
       "link": "https://www.bbc.com/news/articles/cp8dkd6lnjdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-30T21:11:37",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Céline Dion announces comeback shows four years after Stiff Person Syndrome diagnosis",
-      "summary": "The star was diagnosed with a rare condition that affects her singing voice and her ability to walk.",
-      "link": "https://www.bbc.com/news/articles/c0708dkm2lko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-30T19:15:23",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Millions of drivers mis-sold car finance to receive average £829 in compensation",
-      "summary": "The City regulator says 12.1 million mis-sold motor finance deals will be eligible for redress.",
-      "link": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-30T18:59:19",
-      "category": "财金"
-    },
-    {
-      "source": "BBC News",
-      "title": "Beatrice and Eugenie won't be at royal Easter service",
-      "summary": "They are understood to have made \"alternative plans\" instead of joining the Royal Family in Windsor.",
-      "link": "https://www.bbc.com/news/articles/cx247087ejko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-30T17:15:02",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "What was the 1970s oil crisis, and are we heading for something worse?",
-      "summary": "While both crises involve oil, experts say there are some important differences between what happened in the 1970s and today.",
-      "link": "https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-30T15:22:18",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Scott Mills sacked from BBC Radio 2 after allegations over 'historic relationship'",
-      "summary": "He has not hosted his show since Tuesday and the BBC said he is \"no longer contracted to work\" there.",
-      "link": "https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-30T13:48:04",
-      "category": "科技"
     },
     {
       "source": "CNN Top Stories",
