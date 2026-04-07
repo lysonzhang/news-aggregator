@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-07T02:34:30.251507",
+  "update_time": "2026-04-07T09:04:53.262739",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-04-07T02:34:30.251452",
+      "date": "2026-04-07T09:04:53.262680",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-04-07T02:34:30.251445",
+      "date": "2026-04-07T09:04:53.262673",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-04-07T02:34:30.251429",
+      "date": "2026-04-07T09:04:53.262657",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-04-07T02:34:30.251414",
+      "date": "2026-04-07T09:04:53.262643",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-04-07T02:34:30.251402",
+      "date": "2026-04-07T09:04:53.262631",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-04-07T02:34:30.251395",
+      "date": "2026-04-07T09:04:53.262624",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-04-07T02:34:30.251377",
+      "date": "2026-04-07T09:04:53.262606",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-04-07T02:34:30.251362",
+      "date": "2026-04-07T09:04:53.262588",
       "category": "科技"
     },
     {
@@ -71,23 +71,15 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-04-07T02:34:29.820147",
+      "date": "2026-04-07T09:04:52.818366",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Call for parents to teach online privacy like road safety",
-      "summary": "Three in four parents fear their child cannot make safe choices about personal data online, the data watchdog finds.",
-      "link": "https://www.bbc.com/news/articles/c070v00xzl5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-06T23:05:52",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
-      "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
-      "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-06T23:04:23",
+      "title": "Kanye offers to meet Jewish community in UK after Wireless controversy",
+      "summary": "He said his goal was to 'come to London and present a show of change' through his music.",
+      "link": "https://www.bbc.com/news/articles/cly79lrrz4lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-07T08:45:14",
       "category": "科技"
     },
     {
@@ -95,47 +87,55 @@
       "title": "Disruption expected as six-day doctors' strike begins",
       "summary": "The NHS is advising patients in England to only use emergency services when necessary but attend any confirmed appointments.",
       "link": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-06T23:02:51",
+      "date": "2026-04-07T08:33:02",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-      "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
-      "link": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-06T21:55:50",
+      "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
+      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
+      "link": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-07T07:29:55",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Schools in knife crime hotspots to get specialist training",
-      "summary": "A new partnership will provide training for school leaders about knife-crime risk, the government says.",
-      "link": "https://www.bbc.com/news/articles/c4gxz5zw348o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-06T21:30:13",
-      "category": "科技"
+      "title": "Australia's most-decorated living soldier charged over alleged war crimes",
+      "summary": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders.",
+      "link": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-07T07:19:27",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Trump endorses ex-UK political aide Steve Hilton for California governor",
-      "summary": "Steve Hilton, who advised the former prime minster and hosted a Fox News show, is running as a Republican.",
-      "link": "https://www.bbc.com/news/articles/c0mj4jeyvmzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-06T18:55:45",
-      "category": "科技"
+      "title": "Price of first class stamp rises to £1.80",
+      "summary": "The rise come as the postal service faces criticism over missing delivery targets.",
+      "link": "https://www.bbc.com/news/articles/c0mj4mkk94mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-07T07:01:52",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Illegal rave shut down as police face 'violent and hostile' crowd",
-      "summary": "Dorset Police said the event drew about 2,000 people and more than 100 vehicles.",
-      "link": "https://www.bbc.com/news/articles/cddqm316mvjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-06T18:01:24",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Warmest weather of the year expected with 24C this week",
+      "title": "Warmest weather of the year expected with 25C on Wednesday",
       "summary": "The warmest weather of the year is expected on Tuesday and Wednesday as temperatures rise above average, as Simon King explains",
       "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-06T17:03:44",
+      "date": "2026-04-07T06:54:54",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "More than 1,700 Brits who fell ill in Cape Verde join action against Tui",
+      "summary": "Tui is investigating the claims and says it is \"not in a position to provide a statement at this stage\".",
+      "link": "https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-07T05:05:49",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Anthony Zurcher: Little sign of breakthrough as Trump's Iran deadline nears",
+      "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+      "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-06T23:04:23",
       "category": "科技"
     },
     {
