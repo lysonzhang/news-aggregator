@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-17T02:43:10.551505",
+  "update_time": "2026-04-17T09:20:03.073343",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-04-17T02:43:10.551308",
+      "date": "2026-04-17T09:20:03.073276",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-04-17T02:43:10.551302",
+      "date": "2026-04-17T09:20:03.073270",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-04-17T02:43:10.551286",
+      "date": "2026-04-17T09:20:03.073254",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-04-17T02:43:10.551220",
+      "date": "2026-04-17T09:20:03.073239",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-04-17T02:43:10.551205",
+      "date": "2026-04-17T09:20:03.073228",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-04-17T02:43:10.551194",
+      "date": "2026-04-17T09:20:03.073220",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-04-17T02:43:10.551110",
+      "date": "2026-04-17T09:20:03.073202",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-04-17T02:43:10.551093",
+      "date": "2026-04-17T09:20:03.073185",
       "category": "科技"
     },
     {
@@ -71,36 +71,52 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-04-17T02:43:10.093269",
+      "date": "2026-04-17T09:20:02.472701",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Singer D4vd arrested in connection with death of missing teen girl",
-      "summary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
-      "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-17T01:43:12",
-      "category": "科技"
+      "title": "Harry and Meghan meet Bondi shooting survivors",
+      "summary": "On the fourth day of their Australian visit, the royal couple pay tribute to the 15 people killed in the Bondi shooting.",
+      "link": "https://www.bbc.com/news/articles/c625dd1zjy3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-17T08:56:47",
+      "category": "民生"
     },
     {
       "source": "BBC News",
-      "title": "Artemis commander tells BBC about 'powerful' moment crater named after his late wife",
-      "summary": "Reid Wiseman’s two daughters were in Nasa’s mission control room for the naming of the “Carroll” crater in honour of the commander’s late wife.",
-      "link": "https://www.bbc.com/news/videos/cq6jpp2e5d6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-17T01:38:52",
-      "category": "实时热点"
+      "title": "Three charged with arson on Persian media offices",
+      "summary": "Two teenagers and a 21-year-old man are due in court charged with arson with intent to endanger life.",
+      "link": "https://www.bbc.com/news/articles/cwyv24lx1r8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-17T08:22:33",
+      "category": "民生"
     },
     {
       "source": "BBC News",
       "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
-      "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
+      "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
       "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-17T01:34:22",
+      "date": "2026-04-17T08:17:50",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Chris Mason: Mandelson nightmare haunts Starmer again, as senior figure effectively sacked",
+      "title": "Singer D4vd arrested on suspicion of murdering teenage girl",
+      "summary": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
+      "link": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-17T08:15:50",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Lamborghini among 160,000 cars seized as uninsured driving reaches 17-year high",
+      "summary": "Seizure numbers hit a 17-year high as an estimated 300,000 uninsured vehicles are driven each day.",
+      "link": "https://www.bbc.com/news/articles/clyr7dmry5mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-17T07:01:16",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Chris Mason: Mandelson nightmare haunts Starmer again",
       "summary": "The prime minister is believed to be absolutely furious over the handling of Lord Mandelson's vetting, Chris Mason writes.",
       "link": "https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&at_campaign=rss",
       "date": "2026-04-17T00:40:43",
@@ -120,22 +136,6 @@
       "summary": "Small shops across the UK are being targeted by thieves stealing collectibles worth thousands of pounds.",
       "link": "https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss",
       "date": "2026-04-16T23:01:59",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Top Foreign Office official to leave post after Mandelson vetting row",
-      "summary": "It comes after it emerged the peer failed security vetting but the Foreign Office still allowed him to take up the post.",
-      "link": "https://www.bbc.com/news/articles/c747r3v90k3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-16T22:58:53",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Champions League in the Championship? Forest's juggling act goes on",
-      "summary": "Nottingham Forest continue their remarkable Europa League run - but does it only increase the pressure on staying in the Premier League?",
-      "link": "https://www.bbc.com/sport/football/articles/cm25p4ndmdyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-16T22:22:32",
       "category": "实时热点"
     },
     {
