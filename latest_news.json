@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-18T02:33:49.171739",
+  "update_time": "2026-04-18T08:53:51.906310",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-04-18T02:33:49.171684",
+      "date": "2026-04-18T08:53:51.906237",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-04-18T02:33:49.171678",
+      "date": "2026-04-18T08:53:51.906231",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-04-18T02:33:49.171662",
+      "date": "2026-04-18T08:53:51.906214",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-04-18T02:33:49.171647",
+      "date": "2026-04-18T08:53:51.906198",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-04-18T02:33:49.171635",
+      "date": "2026-04-18T08:53:51.906186",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-04-18T02:33:49.171628",
+      "date": "2026-04-18T08:53:51.906177",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-04-18T02:33:49.171610",
+      "date": "2026-04-18T08:53:51.906159",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-04-18T02:33:49.171595",
+      "date": "2026-04-18T08:53:51.906139",
       "category": "科技"
     },
     {
@@ -71,15 +71,31 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-04-18T02:33:48.737390",
+      "date": "2026-04-18T08:53:51.527316",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
-      "summary": "The PM is facing calls to resign over the revelation that Lord Mandelson did not pass security checks.",
-      "link": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-18T00:00:19",
+      "title": "Senior official ousted over Mandelson security row to face MPs",
+      "summary": "Former Former Office chief Sir Olly Robbins is expected to be grilled by the Foreign Affairs Committee on Tuesday.",
+      "link": "https://www.bbc.com/news/articles/c0kryzd8l7no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-18T08:14:00",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "The home cooks reviving forgotten British dishes you've probably never heard of",
+      "summary": "Carrageen pudding and Bedfordshire clangers might no longer be household staples, but some home chefs are bringing them back.",
+      "link": "https://www.bbc.com/news/articles/cje4pl85pxwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-18T07:46:02",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
+      "summary": "A study confirms the vaccine gives excellent protection for babies against life-threatening chest infections.",
+      "link": "https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-17T23:35:23",
       "category": "科技"
     },
     {
@@ -100,19 +116,11 @@
     },
     {
       "source": "BBC News",
-      "title": "Iran says Strait of Hormuz is 'open' but tracking shows few ships moving",
-      "summary": "US President Donald Trump welcomed Tehran's announcement but said the US naval blockade would continue until a peace deal was reached.",
-      "link": "https://www.bbc.com/news/articles/cwydexp39ddo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-17T22:26:00",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Clair Obscur takes top Bafta Games Award but misses out on clean sweep",
-      "summary": "The French role-playing game is crowned at another ceremony - but takes just a handful of awards home.",
-      "link": "https://www.bbc.com/news/articles/cpqx3z0gz0wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-17T21:37:04",
-      "category": "科技"
+      "title": "Coachella campers are turning tents fancy and not all Brits are happy",
+      "summary": "Campers are being judged for over-the-top tent set ups at this year's festival in California.",
+      "link": "https://www.bbc.com/news/articles/c2032x399w1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-17T23:05:09",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -121,14 +129,6 @@
       "link": "https://www.bbc.com/news/articles/cwydex228vko?at_medium=RSS&at_campaign=rss",
       "date": "2026-04-17T21:17:43",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Irish fugitive and alleged crime boss Daniel Kinahan arrested in Dubai",
-      "summary": "Kinahan, in his 40s, was arrested in Dubai on foot of an arrest warrant issued by the Irish courts.",
-      "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-17T17:48:13",
-      "category": "科技"
     },
     {
       "source": "BBC News",
