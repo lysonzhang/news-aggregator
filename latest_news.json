@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-23T02:46:16.946132",
+  "update_time": "2026-04-23T09:46:00.816035",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-04-23T02:46:16.946076",
+      "date": "2026-04-23T09:46:00.815982",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-04-23T02:46:16.946069",
+      "date": "2026-04-23T09:46:00.815976",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-04-23T02:46:16.946053",
+      "date": "2026-04-23T09:46:00.815960",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-04-23T02:46:16.946039",
+      "date": "2026-04-23T09:46:00.815946",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-04-23T02:46:16.946027",
+      "date": "2026-04-23T09:46:00.815934",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-04-23T02:46:16.946019",
+      "date": "2026-04-23T09:46:00.815927",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-04-23T02:46:16.946002",
+      "date": "2026-04-23T09:46:00.815909",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-04-23T02:46:16.945984",
+      "date": "2026-04-23T09:46:00.815895",
       "category": "科技"
     },
     {
@@ -71,16 +71,40 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-04-23T02:46:16.436132",
+      "date": "2026-04-23T09:46:00.424964",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
-      "summary": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
-      "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-23T01:56:20",
-      "category": "实时热点"
+      "title": "Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings",
+      "summary": "The three-year agreement will see at least 50 riot-trained police officers drafted in to tackle violence and “hostile crowds”.",
+      "link": "https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-23T09:44:36",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Watch: BBC goes undercover at mini-mart selling drugs",
+      "summary": "BBC UK editor Ed Thomas confronts a shopkeeper secretly filmed selling cannabis and cocaine to one of our researchers.",
+      "link": "https://www.bbc.com/news/videos/cd6ldv655lpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-23T05:02:00",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals",
+      "summary": "Across the UK, shopfronts are being exploited by criminal gangs pushing illegal drugs, experts say.",
+      "link": "https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-23T04:59:56",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+      "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-23T04:25:30",
+      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -92,35 +116,19 @@
     },
     {
       "source": "BBC News",
-      "title": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches",
-      "summary": "Iran's chief negotiator says \"violations\" by the US and Israel make it impossible to open the strait.",
-      "link": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-23T01:09:19",
+      "title": "Girl, 14, found in singer D4vd's car died of 'multiple injuries'",
+      "summary": "The medical examiner said the 14-year-old's cause of death was determined months ago but was blocked from release.",
+      "link": "https://www.bbc.com/news/articles/cr41yx7pxglo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-23T00:39:56",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "'My baby scratches and scratches': Families say their homes are making their children sick",
-      "summary": "A cross-party report has called for safer conditions for the record number of families living in temporary accommodation.",
-      "link": "https://www.bbc.com/news/articles/cm2r70gwkjjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-23T00:35:10",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Fairway or driveway? The furious debate over building houses on golf courses",
+      "title": "The furious debate over building houses on golf courses",
       "summary": "Are golf courses the right places to build housing, or are they simply a soft target?",
       "link": "https://www.bbc.com/news/articles/ce8jjne5ereo?at_medium=RSS&at_campaign=rss",
       "date": "2026-04-23T00:31:17",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "UK and France strike new £662m small boats deal",
-      "summary": "The three-year agreement will see at least 50 riot-trained police officers drafted in to tackle violence and “hostile crowds”.",
-      "link": "https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-23T00:26:58",
-      "category": "科技"
+      "category": "民生"
     },
     {
       "source": "BBC News",
@@ -129,14 +137,6 @@
       "link": "https://www.bbc.com/news/articles/ckg98q1yx9vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-04-22T23:11:24",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-      "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
-      "link": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-22T21:23:25",
-      "category": "财金"
     },
     {
       "source": "CNN Top Stories",
