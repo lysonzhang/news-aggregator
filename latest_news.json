@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-04-27T02:55:11.310775",
+  "update_time": "2026-04-27T10:17:50.461910",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-04-27T02:55:11.310725",
+      "date": "2026-04-27T10:17:50.461851",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-04-27T02:55:11.310718",
+      "date": "2026-04-27T10:17:50.461845",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-04-27T02:55:11.310702",
+      "date": "2026-04-27T10:17:50.461828",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-04-27T02:55:11.310688",
+      "date": "2026-04-27T10:17:50.461814",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-04-27T02:55:11.310677",
+      "date": "2026-04-27T10:17:50.461803",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-04-27T02:55:11.310669",
+      "date": "2026-04-27T10:17:50.461795",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-04-27T02:55:11.310652",
+      "date": "2026-04-27T10:17:50.461778",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-04-27T02:55:11.310639",
+      "date": "2026-04-27T10:17:50.461762",
       "category": "科技"
     },
     {
@@ -71,24 +71,64 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-04-27T02:55:10.934953",
+      "date": "2026-04-27T10:17:50.117413",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
-      "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
-      "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-27T02:40:23",
+      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+      "summary": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
+      "link": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-27T10:04:34",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Suspected gunman identified as 31-year-old Californian",
-      "summary": "The man arrested at the event attended by President Trump has been named in US media as Cole Tomas Allen from California.",
-      "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-27T02:31:26",
+      "title": "Car bomb hijacking victim 'incredibly brave', says police chief",
+      "summary": "Chief Constable Jon Boutcher says his officers suspect the bombing was carried out by the dissident republican group known as the New IRA.",
+      "link": "https://www.bbc.com/news/articles/c80m0mgvm05o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-27T09:52:39",
       "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Michael Jackson biopic smashes box office record",
+      "summary": "The film received poor reviews but has stormed the box office, taking $217m (£160m) globally.",
+      "link": "https://www.bbc.com/news/articles/crl1lpzp4z5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-27T09:44:09",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Trump says King will be 'very safe' during US visit after security talks",
+      "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
+      "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-27T09:19:11",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "UK healthy life expectancy falls by two years in past decade",
+      "summary": "Poor housing, obesity and the effects of deprivation have been suggested as underlying cause.",
+      "link": "https://www.bbc.com/news/articles/c20q07w3gl9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-27T07:34:48",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Arson arrest after fire at packed-out LGBT+ club",
+      "summary": "An eyewitness says \"thousands\" of people were evacuated from the club.",
+      "link": "https://www.bbc.com/news/articles/c14548m75vlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-27T05:55:38",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "'I don't want the children to see how worried we are': UK family finances hit by Iran war",
+      "summary": "British families tell BBC Panorama how the Iran war is affecting their monthly budgets.",
+      "link": "https://www.bbc.com/news/articles/ckg9q2g88nzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-27T04:55:34",
+      "category": "财金"
     },
     {
       "source": "BBC News",
@@ -97,46 +137,6 @@
       "link": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
       "date": "2026-04-26T23:01:47",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Israeli strikes kill 14 in Lebanon amid ongoing ceasefire",
-      "summary": "The US announced three days ago that the ceasefire was extended by three weeks after talks.",
-      "link": "https://www.bbc.com/news/articles/c4gxgv8j7zlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-26T22:02:45",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Mali defence minister killed as country hit by wave of rebel attacks",
-      "summary": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
-      "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-26T20:56:26",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "King's US visit will go ahead as planned, Buckingham Palace says",
-      "summary": "The decision was made \"after discussions on both sides of the Atlantic through the day\", the Palace says.",
-      "link": "https://www.bbc.com/news/articles/cz0e0rn179eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-26T18:33:04",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Arson arrest after fire at packed-out LGBT+ club",
-      "summary": "An eyewitness says \"thousands\" of people were evacuated from the club.",
-      "link": "https://www.bbc.com/news/articles/c14548m75vlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-26T18:17:30",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Sabastian Sawe breaks two-hour barrier to make history at London Marathon",
-      "summary": "Sabastian Sawe makes history at the London Marathon as the first person to run a sub-two-hour marathon in a competitive race.",
-      "link": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-26T12:39:49",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
