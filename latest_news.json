@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-01T03:33:36.725933",
+  "update_time": "2026-05-01T09:47:15.100209",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-05-01T03:33:36.725882",
+      "date": "2026-05-01T09:47:15.100151",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-05-01T03:33:36.725877",
+      "date": "2026-05-01T09:47:15.100145",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-05-01T03:33:36.725864",
+      "date": "2026-05-01T09:47:15.100129",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-05-01T03:33:36.725852",
+      "date": "2026-05-01T09:47:15.100115",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-05-01T03:33:36.725843",
+      "date": "2026-05-01T09:47:15.100104",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-05-01T03:33:36.725838",
+      "date": "2026-05-01T09:47:15.100096",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-05-01T03:33:36.725823",
+      "date": "2026-05-01T09:47:15.100077",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-05-01T03:33:36.725807",
+      "date": "2026-05-01T09:47:15.100060",
       "category": "科技"
     },
     {
@@ -71,7 +71,39 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-05-01T03:33:36.078951",
+      "date": "2026-05-01T09:47:14.610718",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Met chief defends knife attack officers after criticism from Zack Polanski",
+      "summary": "Sir Mark Rowley says he is \"disappointed\" that Green Party leader Zack Polanski shared a post condemning how police used extreme force in the arrest.",
+      "link": "https://www.bbc.com/news/articles/c74r9rlw9ngo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01T09:36:08",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01T08:41:52",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Labour's London squeeze exposes a fragmented British politics",
+      "summary": "London offers an insight into the dilemma Labour faces about which direction to take.",
+      "link": "https://www.bbc.com/news/articles/cwy2vlww2ezo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01T06:09:47",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+      "summary": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last year.",
+      "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01T05:04:08",
       "category": "科技"
     },
     {
@@ -84,19 +116,11 @@
     },
     {
       "source": "BBC News",
-      "title": "UK terrorism threat level raised to severe after Golders Green attack",
-      "summary": "The UK was last raised to the second-highest level in November 2021 after an attempted bombing and the murder of an MP.",
-      "link": "https://www.bbc.com/news/articles/cq6p4pz6p62o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-01T02:24:27",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "King arrives in Bermuda after ending US trip with visit to small town America",
-      "summary": "On the final day of the state visit, the royal couple headed to Virginia for a more informal experience of the US.",
-      "link": "https://www.bbc.com/news/articles/cdrpjm47jv4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-01T02:19:06",
-      "category": "实时热点"
+      "title": "Why hundreds of everyday medicines are now so hard to get",
+      "summary": "People living with conditions include heart problems, stroke risks, eye infections and bipolar are unable to get hold of the drugs they rely on.",
+      "link": "https://www.bbc.com/news/articles/c202jqn3jzro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01T00:23:00",
+      "category": "民生"
     },
     {
       "source": "BBC News",
@@ -108,35 +132,11 @@
     },
     {
       "source": "BBC News",
-      "title": "UK should not keep changing prime ministers, warns John Major",
-      "summary": "The former Tory PM tells the BBC political leaders are letting young people down by failing tackle long-term problems.",
-      "link": "https://www.bbc.com/news/articles/cgepy0xw1nzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-30T23:44:54",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Fertiliser boss says Iran war puts 10 billion meals a week at risk",
-      "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-30T23:08:09",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Britney Spears charged with driving under influence in California",
-      "summary": "The pop star is facing one misdemeanour count of driving under the influence of any alcohol and drug.",
-      "link": "https://www.bbc.com/news/articles/clyp6r9dzedo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-30T21:46:18",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "'I held down Golders Green suspect' says volunteer who grabbed ankle",
-      "summary": "\"If eyes could kill, I'd be dead,\" he tells the BBC when recounting the moment he saw the suspect.",
-      "link": "https://www.bbc.com/news/articles/cn7pyp13y8no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-30T20:54:50",
-      "category": "实时热点"
+      "title": "The Renters' Rights Act is here - this is what it means for tenants and landlords",
+      "summary": "The biggest shake up of renting rules in England for 30 years affects millions of people.",
+      "link": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-30T16:42:58",
+      "category": "民生"
     },
     {
       "source": "CNN Top Stories",
