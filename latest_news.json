@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-06T02:57:52.110047",
+  "update_time": "2026-05-06T10:20:30.672811",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-05-06T02:57:52.109974",
+      "date": "2026-05-06T10:20:30.672739",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-05-06T02:57:52.109968",
+      "date": "2026-05-06T10:20:30.672733",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-05-06T02:57:52.109951",
+      "date": "2026-05-06T10:20:30.672716",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-05-06T02:57:52.109936",
+      "date": "2026-05-06T10:20:30.672701",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-05-06T02:57:52.109925",
+      "date": "2026-05-06T10:20:30.672690",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-05-06T02:57:52.109916",
+      "date": "2026-05-06T10:20:30.672682",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-05-06T02:57:52.109886",
+      "date": "2026-05-06T10:20:30.672664",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-05-06T02:57:52.109868",
+      "date": "2026-05-06T10:20:30.672634",
       "category": "科技"
     },
     {
@@ -71,15 +71,55 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-05-06T02:57:51.739588",
+      "date": "2026-05-06T10:20:30.243975",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-      "summary": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
-      "link": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-06T02:18:45",
+      "title": "Polanski says he was wrong to claim he was a Red Cross spokesman",
+      "summary": "The Green Party leader tells the BBC he hosted fundraisers for the charity but had not used the right word when describing his role.",
+      "link": "https://www.bbc.com/news/articles/cq5pgv35y7eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-06T10:19:00",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Airlines cut 13,000 flights in May as jet fuel prices soar",
+      "summary": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows.",
+      "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-06T10:10:46",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Met forms team after attacks on Jewish community",
+      "summary": "The move comes after a series of arson attacks at Jewish sites, as well as a double stabbing.",
+      "link": "https://www.bbc.com/news/articles/ceqp9zj9j9eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-06T10:06:09",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
+      "summary": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman.",
+      "link": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-06T07:10:16",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Catherine to return to overseas visits with Italy trip",
+      "summary": "The Princess of Wales will go to Italy next week on her first official overseas engagement for more than three years.",
+      "link": "https://www.bbc.com/news/articles/c707k90lplno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-06T06:49:06",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Watch: The Lebanese neighbourhoods shattered by Israel's ten minute bombing raid",
+      "summary": "The BBC’s Nawal Al-Maghafi has been piecing together what happened on 8 April 2026, after one of the deadliest chapters in the country’s recent history.",
+      "link": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-06T06:39:27",
       "category": "科技"
     },
     {
@@ -92,50 +132,10 @@
     },
     {
       "source": "BBC News",
-      "title": "Catherine to return to overseas visits with Italy trip",
-      "summary": "The Princess of Wales will go to Italy next week on her first official overseas engagement for more than three years.",
-      "link": "https://www.bbc.com/news/articles/c707k90lplno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-06T00:04:38",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
-      "summary": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
-      "link": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-06T00:01:28",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "The league is the dream - but is this Arsenal's moment in Europe?",
-      "summary": "All the talk has been about Arsenal's Premier League title challenge - but is this now the Gunners' time to conquer Europe?",
-      "link": "https://www.bbc.com/sport/football/articles/cj0p2p60vl2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-05T23:29:43",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
+      "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
       "summary": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
       "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-05T21:22:31",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Watch: Captain of stranded ship in Strait of Hormuz tells BBC of 'pressure'",
-      "summary": "Capt Raman Kapoor's ship is one of several to be stranded in the strait in the midst of the power struggle between the US and Iran.",
-      "link": "https://www.bbc.com/news/videos/czx2k3eprpgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-05T18:28:35",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Hate crime prosecutions to be fast-tracked after antisemitic attacks",
-      "summary": "The director of public prosecutions has told prosecutors in England and Wales to bring charges more quickly.",
-      "link": "https://www.bbc.com/news/articles/cz72eye5zzeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-05T16:56:37",
       "category": "实时热点"
     },
     {
