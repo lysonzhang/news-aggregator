@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-07T02:58:23.439172",
+  "update_time": "2026-05-07T10:25:30.753570",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-05-07T02:58:23.439087",
+      "date": "2026-05-07T10:25:30.753495",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-05-07T02:58:23.439081",
+      "date": "2026-05-07T10:25:30.753489",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-05-07T02:58:23.439064",
+      "date": "2026-05-07T10:25:30.753472",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-05-07T02:58:23.439049",
+      "date": "2026-05-07T10:25:30.753457",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-05-07T02:58:23.439018",
+      "date": "2026-05-07T10:25:30.753446",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-05-07T02:58:23.439009",
+      "date": "2026-05-07T10:25:30.753439",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-05-07T02:58:23.438990",
+      "date": "2026-05-07T10:25:30.753421",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-05-07T02:58:23.438971",
+      "date": "2026-05-07T10:25:30.753403",
       "category": "科技"
     },
     {
@@ -71,16 +71,64 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-05-07T02:58:22.755679",
+      "date": "2026-05-07T10:25:30.366333",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "What is hantavirus and how does it spread? Key questions after outbreak",
-      "summary": "The Andes strain of the virus has been confirmed in some passengers, which can rarely be passed from person to person.",
-      "link": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-07T01:33:04",
+      "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship",
+      "summary": "A British man is among three people evacuated from the ship while two other Britons are self-isolating in the UK.",
+      "link": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-07T10:01:04",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Shell latest oil giant to see profits surge due to Iran war impact",
+      "summary": "The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price",
+      "link": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-07T09:38:04",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Watch: Drone delivers first Amazon parcels in UK",
+      "summary": "The tech giant says it hopes to slowly expand the service as the demand for ultra-fast deliveries grows.",
+      "link": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-07T07:54:50",
       "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "The AI fitness instructors selling unreal gains",
+      "summary": "A BBC Sport investigation finds misleading adverts for fitness apps that use AI-generated instructors to make exaggerated claims.",
+      "link": "https://www.bbc.com/sport/articles/c5ye7dnxv86o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-07T05:15:08",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Serving Met officer and four ex-officers investigated for handling of Al Fayed allegations",
+      "summary": "A serving officer and four former officers are being investigated over the handling of reports against the businessman.",
+      "link": "https://www.bbc.com/news/articles/crepwqzppqgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-07T05:01:20",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Woman covertly filmed for 'humiliating' social media content - then told to pay",
+      "summary": "Alice says the video was posted on social media and viewed about 40,000 times.",
+      "link": "https://www.bbc.com/news/articles/cwy87wqz0q9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-07T04:57:42",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+      "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-07T04:06:33",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -89,54 +137,6 @@
       "link": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-07T00:41:21",
       "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Can CCTV really stop children being abused in nurseries?",
-      "summary": "With reports of abuse and deaths fuelling concern among parents, questions are growing over whether CCTV can offer real protection for children - or not.",
-      "link": "https://www.bbc.com/news/articles/czx2kn4n5wxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-06T22:59:03",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "From ego-ridden team to complete package - why PSG pose ultimate test",
-      "summary": "Luis Enrique's expertise at rebuilding a culture as well as a team means Arsenal will confront the complete package when they meet holders PSG in the Champions League final.",
-      "link": "https://www.bbc.com/sport/football/articles/cx218q541lvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-06T22:58:01",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Iran considering US proposal to end war, official says",
-      "summary": "The White House reportedly believes it could be closing in on a 14-point memorandum of understanding with Iran.",
-      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-06T21:27:59",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship early",
-      "summary": "They do not have symptoms and health officials say the risk to the general public remains very low.",
-      "link": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-06T21:07:17",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-      "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
-      "link": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-06T19:58:04",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Up to 150 former WHSmith high street stores to close",
-      "summary": "The stores were purchased by Modella Capital last year, and then rebranded under the name TGJones.",
-      "link": "https://www.bbc.com/news/articles/clypzvqzqd7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-06T15:22:58",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
