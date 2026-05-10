@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-10T03:27:59.384216",
+  "update_time": "2026-05-10T09:39:25.502849",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-05-10T03:27:59.384135",
+      "date": "2026-05-10T09:39:25.502760",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-05-10T03:27:59.384129",
+      "date": "2026-05-10T09:39:25.502754",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-05-10T03:27:59.384113",
+      "date": "2026-05-10T09:39:25.502737",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-05-10T03:27:59.384097",
+      "date": "2026-05-10T09:39:25.502722",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-05-10T03:27:59.384086",
+      "date": "2026-05-10T09:39:25.502710",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-05-10T03:27:59.384078",
+      "date": "2026-05-10T09:39:25.502702",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-05-10T03:27:59.384060",
+      "date": "2026-05-10T09:39:25.502684",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-05-10T03:27:59.384042",
+      "date": "2026-05-10T09:39:25.502665",
       "category": "科技"
     },
     {
@@ -71,23 +71,31 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-05-10T03:27:58.858844",
+      "date": "2026-05-10T09:39:25.115122",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
-      "summary": "BBC's Sarah Rainsford reports from the port in Tenerife where the MV Hondius is soon to dock, after a deadly hantavirus outbreak.",
+      "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
+      "summary": "Spanish passengers are the first leave the MV Hondius, after an outbreak saw three people die and several infected.",
       "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-10T01:08:51",
+      "date": "2026-05-10T09:14:51",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Challenge Starmer by Monday or I will, Labour MP tells cabinet",
-      "summary": "Catherine West tells the BBC if a leadership hopeful does not put themselves forward she will try to trigger a contest.",
-      "link": "https://www.bbc.com/news/articles/cx210w87l4do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-10T00:44:36",
+      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+      "summary": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
+      "link": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-10T08:49:02",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Two men admit filming antisemitic abuse on TikTok",
+      "summary": "Adam Bedoui, 20, and Abdelkader Amir Bousloub, 21, travelled to a predominantly Jewish area to film antisemitic abuse.",
+      "link": "https://www.bbc.com/news/articles/c5yegzd6zz3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-10T07:34:47",
       "category": "实时热点"
     },
     {
@@ -104,14 +112,6 @@
       "summary": "The first-past-the-post system favoured Reform in this English local elections",
       "link": "https://www.bbc.com/news/articles/cdxpqyndqwlo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-09T23:35:22",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Antisemitism 'a problem for all of us to fix', religious leaders say in letter",
-      "summary": "In recent months, there have been a string of attacks at synagogues and other Jewish sites.",
-      "link": "https://www.bbc.com/news/articles/cy92v3j999yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-09T23:05:48",
       "category": "实时热点"
     },
     {
