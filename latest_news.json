@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-21T03:53:25.585396",
+  "update_time": "2026-05-21T11:28:02.795793",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-05-21T03:53:25.585329",
+      "date": "2026-05-21T11:28:02.795732",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-05-21T03:53:25.585323",
+      "date": "2026-05-21T11:28:02.795725",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-05-21T03:53:25.585307",
+      "date": "2026-05-21T11:28:02.795691",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-05-21T03:53:25.585293",
+      "date": "2026-05-21T11:28:02.795677",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-05-21T03:53:25.585281",
+      "date": "2026-05-21T11:28:02.795665",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-05-21T03:53:25.585273",
+      "date": "2026-05-21T11:28:02.795658",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-05-21T03:53:25.585254",
+      "date": "2026-05-21T11:28:02.795640",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-05-21T03:53:25.585237",
+      "date": "2026-05-21T11:28:02.795624",
       "category": "科技"
     },
     {
@@ -71,47 +71,63 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-05-21T03:53:25.121773",
+      "date": "2026-05-21T11:28:02.315324",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Watch: BBC in Cuba after US announces criminal charges against Raúl Castro",
-      "summary": "BBC correspondent Will Grant reports from Havana, hours after the US charged former Cuban leader with conspiracy to kill US nationals and other crimes.",
-      "link": "https://www.bbc.com/news/videos/cy529g5lnleo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-21T03:07:46",
+      "title": "NHS trust sacks staff over attacks victims' records",
+      "summary": "Nottingham University Hospitals NHS Trust says investigations are ongoing.",
+      "link": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-21T11:23:28",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
+      "summary": "It comes after the US charged Cuba's ex-leader with murder, the latest move putting pressure on the regime.",
+      "link": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-21T11:22:18",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Children in England to be offered free bus trips this August",
-      "summary": "Chancellor Rachel Reeves is to reveal a £100m fare-free bus scheme designed to relieve cost-of-living pressures.",
+      "title": "Free bus trips for children in England this August as part of Reeves's cost-of-living plan",
+      "summary": "Chancellor Rachel Reeves will make a series of announcemenrs aimed at relieving cost-of-living pressures.",
       "link": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-21T02:48:03",
-      "category": "实时热点"
+      "date": "2026-05-21T11:20:07",
+      "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "UK agrees £3.7bn trade deal with six Gulf states",
-      "summary": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
-      "link": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-21T01:16:51",
-      "category": "实时热点"
+      "title": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
+      "summary": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
+      "link": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-21T11:03:00",
+      "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+      "title": "Wes Streeting pledges wealth tax as part of leadership pitch",
+      "summary": "He proposes equalising capital gains tax with income tax, in a reform he estimates could raise £12bn a year.",
+      "link": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-21T07:52:24",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Chris Mason: Reeves' summer savings drive won't stretch to energy bills",
+      "summary": "The chancellor is announcing measures aimed at easing the cost of living - but no help yet with energy bills.",
+      "link": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-21T07:44:15",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "TikTok and YouTube 'not safe enough' for kids, says regulator",
       "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
       "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-21T00:47:21",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Unfair dismissal claims face five-year delay as tribunal backlog grows",
-      "summary": "Employment tribunal service delays mean people bringing unfair dismissal claims are waiting up to five years in England and Wales.",
-      "link": "https://www.bbc.com/news/articles/cp9pj2pk2j7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-20T23:14:23",
+      "date": "2026-05-21T07:10:42",
       "category": "科技"
     },
     {
@@ -120,22 +136,6 @@
       "summary": "A ban was meant to bring an end to the practice - but councils continue to fund illegal placements.",
       "link": "https://www.bbc.com/news/articles/cwy2vxp48y8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-20T23:10:10",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Southampton lose appeal against play-off expulsion",
-      "summary": "Southampton lose their appeal against expulsion from the Championship play-off final for spying.",
-      "link": "https://www.bbc.com/sport/football/articles/cn4p284ny2ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-20T21:15:29",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Russian jets 'dangerously' intercept RAF spy plane over Black Sea",
-      "summary": "The unarmed Rivet Joint surveillance aircraft was conducting a \"routine international flight\" during the incidents, the Ministry of Defence says.",
-      "link": "https://www.bbc.com/news/articles/cq8p40e2zx1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-20T16:00:05",
       "category": "科技"
     },
     {
