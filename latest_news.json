@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-24T03:43:11.620236",
+  "update_time": "2026-05-24T09:56:02.120179",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-05-24T03:43:11.620166",
+      "date": "2026-05-24T09:56:02.120107",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-05-24T03:43:11.620160",
+      "date": "2026-05-24T09:56:02.120100",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-05-24T03:43:11.620143",
+      "date": "2026-05-24T09:56:02.120084",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-05-24T03:43:11.620129",
+      "date": "2026-05-24T09:56:02.120069",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-05-24T03:43:11.620117",
+      "date": "2026-05-24T09:56:02.120058",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-05-24T03:43:11.620110",
+      "date": "2026-05-24T09:56:02.120050",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-05-24T03:43:11.620091",
+      "date": "2026-05-24T09:56:02.120032",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-05-24T03:43:11.620073",
+      "date": "2026-05-24T09:56:02.120013",
       "category": "科技"
     },
     {
@@ -71,7 +71,23 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-05-24T03:43:11.200081",
+      "date": "2026-05-24T09:56:01.772593",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24T09:42:11",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
+      "summary": "Speaking to the BBC’s Laura Kuenssberg, the girl, who is now 16, said: \"What was the point in putting me through that?\"",
+      "link": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24T09:42:09",
       "category": "科技"
     },
     {
@@ -79,23 +95,15 @@
       "title": "Suspect killed after opening fire on Secret Service near White House",
       "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
       "link": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-24T03:14:04",
+      "date": "2026-05-24T06:15:32",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-      "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-24T01:18:31",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Heatwave likely to be confirmed as record-breaking temperatures forecast",
-      "summary": "The soaring temperatures could lead to new national May temperature records being set on bank holiday Monday.",
-      "link": "https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-24T00:54:51",
+      "title": "Why the stakes are so high in Spurs and West Ham's relegation shootout",
+      "summary": "Why the stakes could not be higher in Tottenham and West Ham's relegation shootout.",
+      "link": "https://www.bbc.com/sport/football/articles/cpqpyprner9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24T05:15:37",
       "category": "实时热点"
     },
     {
@@ -103,15 +111,23 @@
       "title": "It's like the Olympics - except steroids are allowed",
       "summary": "The first ever Enhanced Games are taking place this weekend in Las Vegas, with big names, big money and much controversy.",
       "link": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-23T23:48:49",
+      "date": "2026-05-24T04:46:07",
       "category": "财金"
     },
     {
       "source": "BBC News",
-      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-      "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
-      "link": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-23T23:34:33",
+      "title": "Spurred on by the painful death of her dad, Natalie Cassidy trains as a carer",
+      "summary": "The actress's experience caring for her father inspired her to return to education in a new BBC show.",
+      "link": "https://www.bbc.com/news/articles/c70v1yy9nn1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-24T00:58:49",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
+      "link": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-23T23:24:03",
       "category": "科技"
     },
     {
@@ -121,22 +137,6 @@
       "link": "https://www.bbc.com/news/articles/c4g07gdzneno?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-23T22:34:14",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "France suspends extra EU border checks at Dover after hours-long queues",
-      "summary": "The port said extra checks would be suspended, after travellers faced queues as temperatures soared.",
-      "link": "https://www.bbc.com/news/articles/cp3p2ver9k6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-23T16:55:59",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
-      "summary": "Reforms are needed of the welfare system to tackle the high numbers of young people not in work or education, says Alan Milburn.",
-      "link": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-23T12:00:31",
-      "category": "民生"
     },
     {
       "source": "CNN Top Stories",
