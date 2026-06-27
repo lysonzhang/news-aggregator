@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-27T03:34:50.630854",
+  "update_time": "2026-06-27T10:09:58.773382",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-06-27T03:34:50.630796",
+      "date": "2026-06-27T10:09:58.773311",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-06-27T03:34:50.630790",
+      "date": "2026-06-27T10:09:58.773304",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-06-27T03:34:50.630773",
+      "date": "2026-06-27T10:09:58.773288",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-06-27T03:34:50.630759",
+      "date": "2026-06-27T10:09:58.773274",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-06-27T03:34:50.630748",
+      "date": "2026-06-27T10:09:58.773262",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-06-27T03:34:50.630740",
+      "date": "2026-06-27T10:09:58.773255",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-06-27T03:34:50.630723",
+      "date": "2026-06-27T10:09:58.773237",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-06-27T03:34:50.630705",
+      "date": "2026-06-27T10:09:58.773221",
       "category": "科技"
     },
     {
@@ -71,24 +71,48 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-06-27T03:34:50.239260",
+      "date": "2026-06-27T10:09:58.371540",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
-      "summary": "Suffolk saw the highest temperature on Friday - but many will feel the heatwave begin to ease over the weekend.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-27T03:25:44",
+      "title": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27T10:06:32",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "US conducts strikes on Iran after attack on cargo ship",
-      "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-27T02:48:12",
+      "title": "Is Andy Burnham Labour's saviour, or just its best bet?",
+      "summary": "Labour insiders give Laura Kuenssberg their take on the man tipped to replace Keir Starmer as PM.",
+      "link": "https://www.bbc.co.uk/news/articles/c621e13n2dvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27T09:43:41",
       "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Mahmood announces new refugee sponsorship route into UK",
+      "summary": "The home secretary says \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27T08:56:49",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "How Cape Verde stunned World Cup to set up Argentina tie",
+      "summary": "How has a group of islands with just 525,000 inhabitants made it to the knockout rounds of the World Cup?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27T03:41:58",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Are we in for a summer of serial heatwaves?",
+      "summary": "Forecasters have suggested that summer is likely to be warmer than average with an increased chance of more heatwaves, as Simon King explains.",
+      "link": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27T03:16:46",
+      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -100,19 +124,11 @@
     },
     {
       "source": "BBC News",
-      "title": "Trump threatens 100% tariff on European nations over tech tax",
-      "summary": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-27T01:37:18",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Home Office to introduce new asylum routes to UK",
-      "summary": "The home secretary said \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-27T01:03:00",
-      "category": "科技"
+      "title": "How completing the World Cup sticker book is like having a second job",
+      "summary": "From car park meet ups to Facebook groups, how families try to complete the set on a budget.",
+      "link": "https://www.bbc.co.uk/news/articles/c3eyv0v28gwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27T00:27:54",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -121,22 +137,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-26T23:01:50",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Three unusual things about the King's tax bill",
-      "summary": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26T23:00:30",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
-      "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-26T21:15:37",
-      "category": "民生"
     },
     {
       "source": "CNN Top Stories",
