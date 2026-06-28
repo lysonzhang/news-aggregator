@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-06-28T03:57:47.883737",
+  "update_time": "2026-06-28T10:28:33.217639",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-06-28T03:57:47.883666",
+      "date": "2026-06-28T10:28:33.217584",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-06-28T03:57:47.883660",
+      "date": "2026-06-28T10:28:33.217577",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-06-28T03:57:47.883644",
+      "date": "2026-06-28T10:28:33.217561",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-06-28T03:57:47.883629",
+      "date": "2026-06-28T10:28:33.217547",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-06-28T03:57:47.883618",
+      "date": "2026-06-28T10:28:33.217535",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-06-28T03:57:47.883610",
+      "date": "2026-06-28T10:28:33.217527",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-06-28T03:57:47.883593",
+      "date": "2026-06-28T10:28:33.217509",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-06-28T03:57:47.883576",
+      "date": "2026-06-28T10:28:33.217494",
       "category": "科技"
     },
     {
@@ -71,24 +71,40 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-06-28T03:57:47.491961",
+      "date": "2026-06-28T10:28:32.409927",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-28T03:35:50",
-      "category": "科技"
+      "title": "Clarke leaves strong Scotland legacy but exit brings sense of relief",
+      "summary": "Steve Clarke took Scotland out of the wilderness - but not past the group stage of a tournament. Tom English's must-read analysis of his reign.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn4d1eg5eqeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-28T09:16:02",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
       "title": "Harry reconsiders bringing Meghan and children on UK trip",
       "summary": "It comes after his request for police protection was rejected days before the family is due to arrive.",
       "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-28T02:33:53",
+      "date": "2026-06-28T08:44:25",
       "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Knockouts are here - what is England's path to the final?",
+      "summary": "BBC Sport takes a look at what England will need to do to reach the final after qualifying for the knockout stages.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-28T05:39:46",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-28T04:54:50",
+      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -100,7 +116,7 @@
     },
     {
       "source": "BBC News",
-      "title": "Job done - but England will not win World Cup unless they improve",
+      "title": "England top group - but they will not win World Cup unless they improve",
       "summary": "England did their job topping the group - but they can forget winning the World Cup if they do not improve, writes Phil McNulty.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cg4wnp592z1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-28T01:05:27",
@@ -108,35 +124,19 @@
     },
     {
       "source": "BBC News",
-      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-      "summary": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-28T00:06:19",
+      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+      "summary": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
+      "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-27T23:10:39",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Clarke steps down as Scotland boss after World Cup exit",
-      "summary": "Steve Clarke resigns as Scotland head coach following the nation's group exit from the World Cup.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-27T23:37:18",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Scotland's ill-fated World Cup story finally at a sorry end",
-      "summary": "BBC Sport Scotland's chief sportswriter Tom English sums up his verdict on the nation's World Cup exit.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzdwz890go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-27T23:21:55",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-      "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+      "title": "Families calling out to loved ones trapped in rubble by Venezuela quakes",
+      "summary": "In La Guaira, desperate families keep vigil at buildings where they fear their relatives are trapped, but face an impossible task to move heavy debris.",
       "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-27T21:12:51",
-      "category": "实时热点"
+      "category": "科技"
     },
     {
       "source": "CNN Top Stories",
