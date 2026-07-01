@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-01T04:01:48.256381",
+  "update_time": "2026-07-01T11:24:50.057237",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-01T04:01:48.256298",
+      "date": "2026-07-01T11:24:50.057171",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-01T04:01:48.256291",
+      "date": "2026-07-01T11:24:50.057165",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-01T04:01:48.256275",
+      "date": "2026-07-01T11:24:50.057148",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-01T04:01:48.256260",
+      "date": "2026-07-01T11:24:50.057132",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-01T04:01:48.256248",
+      "date": "2026-07-01T11:24:50.057121",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-01T04:01:48.256240",
+      "date": "2026-07-01T11:24:50.057114",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-01T04:01:48.256222",
+      "date": "2026-07-01T11:24:50.057095",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-01T04:01:48.256204",
+      "date": "2026-07-01T11:24:50.057076",
       "category": "科技"
     },
     {
@@ -71,7 +71,39 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-01T04:01:47.874255",
+      "date": "2026-07-01T11:24:49.311666",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Two dead after plane crashed during flight experience",
+      "summary": "The two-seat Cessna plane comes down off Mill Lane in High Ongar at about 12:30 BST on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8k7p74z31o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-01T11:23:18",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Nowak case officers face gross misconduct investigation",
+      "summary": "Henry Nowak, 18, was handcuffed as he lay dying after being stabbed by Vickrum Digwa in December 2025.",
+      "link": "https://www.bbc.co.uk/news/articles/cd6ezln069vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-01T10:23:52",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Burnham's chancellor will have to find extra £4.7bn for defence, says minister",
+      "summary": "Luke Pollard says the next chancellor \"whoever that may be\" will have to \"find the resources\" to fund defence plan.",
+      "link": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-01T10:23:09",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Family of boy attacked by crocodile thank zoo staff who rescued him",
+      "summary": "The boy remains at Addenbrooke's Hospital in a stable condition, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8j24ng6p0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-01T09:45:25",
       "category": "科技"
     },
     {
@@ -79,15 +111,15 @@
       "title": "Trump made more than $1bn from crypto in first year back in office",
       "summary": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
       "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-01T03:31:08",
+      "date": "2026-07-01T07:30:53",
       "category": "财金"
     },
     {
       "source": "BBC News",
-      "title": "Tuchel will stick to Southgate's penalty plan",
-      "summary": "England manager Thomas Tuchel had revealed that his team will follow his predecessor Sir Gareth Southgate's penalty shootout blueprint at the World Cup.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-01T01:49:30",
+      "title": "Woman raped by Superdry co-founder tells BBC she was working for him at the time",
+      "summary": "She described feeling fear and dread as she returned to her job, working for James Holder, after the attack.",
+      "link": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-01T05:00:08",
       "category": "实时热点"
     },
     {
@@ -100,43 +132,11 @@
     },
     {
       "source": "BBC News",
-      "title": "E-scooters being advertised for commuting despite UK road ban",
-      "summary": "A Press Association investigation found major retailers advertising e-scooters for \"commuting\" and \"urban riding\".",
-      "link": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-30T23:05:08",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
       "title": "Women with PMOS should have yearly NHS checks, says health watchdog",
       "summary": "Despite affecting millions of women in the UK, PMOS is still under-diagnosed and inconsistently managed, say experts.",
       "link": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-30T23:04:58",
       "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Plea for households to read energy meter as prices rise",
-      "summary": "Household energy prices have risen by 13% a year as regulator Ofgem's latest price cap kicks in.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-30T23:02:02",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Starmer trims budgets to fund extra £15bn for defence",
-      "summary": "The plan outlines how billions will be spent on equipping the UK armed forces in the years ahead.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-30T20:17:22",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Why Starmer's defence plan leaves next PM with £4.7bn headache",
-      "summary": "Keir Starmer announces extra defence spending - but the subject will still be one of the trickiest issues in his successor's in-tray.",
-      "link": "https://www.bbc.co.uk/news/articles/c9q250511neo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-30T20:02:42",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
