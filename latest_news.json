@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-07T03:31:08.227408",
+  "update_time": "2026-07-07T10:57:53.379553",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-07T03:31:08.227339",
+      "date": "2026-07-07T10:57:53.379478",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-07T03:31:08.227332",
+      "date": "2026-07-07T10:57:53.379472",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-07T03:31:08.227315",
+      "date": "2026-07-07T10:57:53.379456",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-07T03:31:08.227300",
+      "date": "2026-07-07T10:57:53.379442",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-07T03:31:08.227289",
+      "date": "2026-07-07T10:57:53.379430",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-07T03:31:08.227281",
+      "date": "2026-07-07T10:57:53.379422",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-07T03:31:08.227263",
+      "date": "2026-07-07T10:57:53.379404",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-07T03:31:08.227244",
+      "date": "2026-07-07T10:57:53.379387",
       "category": "科技"
     },
     {
@@ -71,7 +71,63 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-07T03:31:07.815273",
+      "date": "2026-07-07T10:57:52.552815",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "One million more UK homeowners set  to face higher mortgages",
+      "summary": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
+      "link": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-07T10:51:08",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-07T10:50:57",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Endometriosis diagnosis set to be sped up with two new tests carried out by GPs",
+      "summary": "Experts hope they will be a game-changer and cut the nine-year or longer diagnosis waits patients can currently face.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-07T09:16:09",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Harry begins UK visit as verdict due in privacy case against Daily Mail publisher",
+      "summary": "The Duke of Sussex begins a week of charity engagements and will hear the outcome of his newspaper court battle.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8mmm5v8j0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-07T08:36:29",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "The Odyssey stars wow red carpet at world premiere in London",
+      "summary": "Anne Hathaway, Zendaya, Tom Holland and Matt Damon were among the stars who walked the carpet in London for the premiere of Christopher Nolan's adaptation of Homer's Ancient Greek epic.",
+      "link": "https://www.bbc.co.uk/news/videos/cj0g3rze2gqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-07T08:00:06",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Belgium say 'sense of injustice' spurred them on to knock US out of World Cup",
+      "summary": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-07T07:07:29",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "MI5 knew agent was misogynist 'obsessed' with violence, watchdog finds",
+      "summary": "A secret inquiry by the security service's watchdog concluded there were 'serious failings in MI5's management of Agent X’.",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gggjekyjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-07T05:00:08",
       "category": "科技"
     },
     {
@@ -79,63 +135,7 @@
       "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
       "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
       "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-07T02:07:15",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Party Rock Anthem singer Lauren Bennett dies aged 37",
-      "summary": "Bennett's cause of death was not immediately clear and bandmates from her former group G.R.L say their \"hearts are broken\".",
-      "link": "https://www.bbc.co.uk/news/articles/c04yywdq69vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-07T00:25:37",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Prince Harry begins his UK visit with court verdict",
-      "summary": "The Duke of Sussex begins a week of charity engagements and will hear the outcome of his newspaper court battle.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8mmm5v8j0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-06T23:49:38",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Women face hidden fertility ceiling despite donor eggs",
-      "summary": "Age-related changes in the womb lining may be the cause and could be treatable in the future, say experts.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg018w1r02o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-06T23:33:47",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Banks accused of failing most vulnerable customers",
-      "summary": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
-      "link": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-06T23:29:34",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
-      "summary": "A new report says students were not well-enough informed that their loan terms could change retrospectively.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-06T23:08:51",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "World Cup fans react to Balogun's one-game ban suspension",
-      "summary": "The USA star striker will be available to play at today's match against Belgium after President Trump called Fifa for his ban to be reviewed.",
-      "link": "https://www.bbc.co.uk/news/videos/cly77en9z9lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-06T22:30:36",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Why European backlash over Trump intervention won't worry Infantino",
-      "summary": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-06T22:26:20",
+      "date": "2026-07-07T04:18:19",
       "category": "科技"
     },
     {
