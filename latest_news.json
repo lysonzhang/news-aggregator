@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-12T02:52:14.367047",
+  "update_time": "2026-07-12T09:51:14.956062",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-12T02:52:14.366996",
+      "date": "2026-07-12T09:51:14.955891",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-12T02:52:14.366992",
+      "date": "2026-07-12T09:51:14.955881",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-12T02:52:14.366978",
+      "date": "2026-07-12T09:51:14.955855",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-12T02:52:14.366967",
+      "date": "2026-07-12T09:51:14.955833",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-12T02:52:14.366958",
+      "date": "2026-07-12T09:51:14.955815",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-12T02:52:14.366952",
+      "date": "2026-07-12T09:51:14.955803",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-12T02:52:14.366938",
+      "date": "2026-07-12T09:51:14.955776",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-12T02:52:14.366922",
+      "date": "2026-07-12T09:51:14.955748",
       "category": "科技"
     },
     {
@@ -71,23 +71,55 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-12T02:52:13.698240",
+      "date": "2026-07-12T09:51:14.572104",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Man arrested on suspicion of murder of Ann Widdecombe",
+      "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "summary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12T09:47:43",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Man arrested in South Yorkshire on suspicion of Ann Widdecombe murder",
       "summary": "A 28-year-old white British national has been arrested in South Yorkshire, police say.",
       "link": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12T02:29:56",
+      "date": "2026-07-12T09:45:21",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "'The perfect football song': Why England fans (like Beckham) and players love Wonderwall",
+      "summary": "David Beckham joined in with the latest Oasis singalong, following England's World Cup win in Miami.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12T07:15:40",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
       "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+      "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12T01:55:03",
+      "date": "2026-07-12T06:49:46",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "'Exceptional' wildfire risk for parts of UK as heat health alerts issued",
+      "summary": "The warnings come as parts of the UK are set to enter their second week of temperatures above the heatwave threshold.",
+      "link": "https://www.bbc.co.uk/weather/articles/ce8mrn49gndo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12T06:07:51",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Tuchel angry at 'lucky' England - but Bellingham defends players",
+      "summary": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway - but match-winner Jude Bellingham disagrees.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-12T03:08:42",
       "category": "科技"
     },
     {
@@ -105,38 +137,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-12T00:42:35",
       "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Watch fans react to every goal of England v Norway",
-      "summary": "The quarter-final of the World Cup saw the two teams face off in Miami, cheered on by fans back home.",
-      "link": "https://www.bbc.co.uk/news/videos/cvgqxx912dro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-12T00:33:04",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "'He has dragged them through all tournament' - England player ratings",
-      "summary": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reach the World Cup semi-finals.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11T23:51:39",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Tributes paid to TV presenter Dermot Murnaghan",
-      "summary": "The former BBC, ITV and Sky News journalist has died after revealing he had stage four prostate cancer.",
-      "link": "https://www.bbc.co.uk/news/articles/c20yvg13nqpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11T19:29:45",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
-      "summary": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
-      "link": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-11T12:00:16",
-      "category": "财金"
     },
     {
       "source": "CNN Top Stories",
