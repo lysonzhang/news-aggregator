@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-15T02:32:49.156215",
+  "update_time": "2026-07-15T10:03:30.984615",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-15T02:32:49.156144",
+      "date": "2026-07-15T10:03:30.984547",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-15T02:32:49.156137",
+      "date": "2026-07-15T10:03:30.984541",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-15T02:32:49.156120",
+      "date": "2026-07-15T10:03:30.984525",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-15T02:32:49.156105",
+      "date": "2026-07-15T10:03:30.984510",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-15T02:32:49.156094",
+      "date": "2026-07-15T10:03:30.984500",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-15T02:32:49.156086",
+      "date": "2026-07-15T10:03:30.984491",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-15T02:32:49.156067",
+      "date": "2026-07-15T10:03:30.984474",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-15T02:32:49.156048",
+      "date": "2026-07-15T10:03:30.984457",
       "category": "科技"
     },
     {
@@ -71,39 +71,63 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-15T02:32:48.764738",
+      "date": "2026-07-15T10:03:30.472415",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Seven Britons among those killed in Spain wildfires",
-      "summary": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-15T01:03:07",
+      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out",
+      "summary": "The government also wants 'addictive' app features such as auto-play and infinite scroll to be set to be disabled.",
+      "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-15T09:58:54",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-15T09:06:52",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-      "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-15T00:28:35",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-14T23:17:27",
+      "title": "How will Buy Now Pay Later changes affect you?",
+      "summary": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate.",
+      "link": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-15T08:43:15",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Midnight social media curfew proposed for older UK teens",
-      "summary": "Teens will be able to opt out of the restrictions - campaigners have criticised them as being piecemeal.",
-      "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-14T23:17:23",
+      "title": "Briton's Iran jail sentence extended by two years, family says",
+      "summary": "Relatives of Craig Foreman say his punishment is being extended for talking to the media from jail.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-15T08:33:27",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+      "summary": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
+      "link": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-15T08:06:00",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Review of MP security needed after Widdecombe death, Burnham says",
+      "summary": "The expected next prime minister says politics has \"darkened\" in the decade he has been away from Westminster.",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-15T07:50:59",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "I still feel pain of '98 but this can be different for England, says Shearer",
+      "summary": "England's defeat by Argentina at the 1998 World Cup still burns deep for Alan Shearer, but he explains why this team can take their chance to change their lives forever.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-15T05:02:28",
       "category": "科技"
     },
     {
@@ -112,30 +136,6 @@
       "summary": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK",
       "link": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-14T23:08:13",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Heating oil customers to get compensation after price hikes",
-      "summary": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
-      "link": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-14T23:00:41",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-      "summary": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
-      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-14T20:10:37",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Police say Ann Widdecombe killed in 'targeted attack' as motive investigated",
-      "summary": "Counter terror police say they have obtained a warrant to hold a 28-year-old suspect for up to seven days.",
-      "link": "https://www.bbc.co.uk/news/articles/c0ryr74zjzvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-14T18:07:08",
       "category": "科技"
     },
     {
