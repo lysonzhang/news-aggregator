@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-16T02:41:04.435703",
+  "update_time": "2026-07-16T10:09:09.836872",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-16T02:41:04.435632",
+      "date": "2026-07-16T10:09:09.836813",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-16T02:41:04.435626",
+      "date": "2026-07-16T10:09:09.836809",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-16T02:41:04.435609",
+      "date": "2026-07-16T10:09:09.836795",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-16T02:41:04.435595",
+      "date": "2026-07-16T10:09:09.836782",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-16T02:41:04.435584",
+      "date": "2026-07-16T10:09:09.836773",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-16T02:41:04.435576",
+      "date": "2026-07-16T10:09:09.836767",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-16T02:41:04.435558",
+      "date": "2026-07-16T10:09:09.836750",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-16T02:41:04.435540",
+      "date": "2026-07-16T10:09:09.836732",
       "category": "科技"
     },
     {
@@ -71,44 +71,52 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-16T02:41:04.000092",
+      "date": "2026-07-16T10:09:09.134790",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
-      "summary": "England went 1-0 up against Argentina before slumping to a heart-breaking semi-final defeat. But did boss Thomas Tuchel's \"negative\" tactics cost the Three Lions a place in the World Cup final?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-16T00:57:21",
+      "title": "Ten unheard tracks from David Bowie's early career to be released",
+      "summary": "The previously unheard tracks from the 1960s were recorded when Bowie went by the stage name Davie Jones.",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l3y83g7eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-16T09:48:07",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-16T09:29:28",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Weekend cooldown to mark end of heatwave for some",
-      "summary": "Temperatures are set to fall by several degrees in some areas, including parts of Scotland, Northern Ireland and northern England.",
-      "link": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-16T00:31:59",
+      "title": "TikTok faces Ofcom investigation over child age checks",
+      "summary": "It follows a review by the regulator in May that criticised the platform for not being \"safe enough\" for children.",
+      "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-16T08:19:21",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
-      "summary": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England.",
-      "link": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-16T00:20:52",
+      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+      "summary": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-16T07:34:47",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "William tells England to 'hold their heads high' after loss",
-      "summary": "The Prince of Wales says England has \"inspired us all\" as he offers his commiserations over the loss to Argentina.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-16T00:07:05",
+      "title": "Nowak killer's first recorded confession revealed",
+      "summary": "Vickrum Digwa was recorded in a police van discussing Henry Nowak's murder in Southampton.",
+      "link": "https://www.bbc.co.uk/news/articles/c70ylezgr1eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-16T05:17:14",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
       "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
       "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-15T23:02:49",
@@ -124,18 +132,10 @@
     },
     {
       "source": "BBC News",
-      "title": "Argentina face action after waving Falklands banner",
+      "title": "Argentina face action over Falklands banner",
       "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-15T22:49:47",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Iain Watson: Burnham faces crucial choice for chancellor as battle for No 11 continues",
-      "summary": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
-      "link": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-15T17:13:06",
       "category": "科技"
     },
     {
