@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-19T09:52:12.319781",
+  "update_time": "2026-07-20T03:24:45.698076",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-19T09:52:12.319702",
+      "date": "2026-07-20T03:24:45.698019",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-19T09:52:12.319695",
+      "date": "2026-07-20T03:24:45.698012",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-19T09:52:12.319679",
+      "date": "2026-07-20T03:24:45.697996",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-19T09:52:12.319664",
+      "date": "2026-07-20T03:24:45.697982",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-19T09:52:12.319653",
+      "date": "2026-07-20T03:24:45.697971",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-19T09:52:12.319645",
+      "date": "2026-07-20T03:24:45.697963",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-19T09:52:12.319627",
+      "date": "2026-07-20T03:24:45.697945",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-19T09:52:12.319611",
+      "date": "2026-07-20T03:24:45.697929",
       "category": "科技"
     },
     {
@@ -71,72 +71,72 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-19T09:52:11.406353",
+      "date": "2026-07-20T03:24:44.766573",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-19T09:37:32",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
-      "summary": "A spokesperson for the incoming prime minister says his government would “put its focus where people need it right now”.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-19T08:55:06",
+      "title": "Burnham to promise 'more breathing room' for people in first speech as PM",
+      "summary": "The Labour leader will say he is \"acutely conscious\" of the UK's high turnover of prime ministers, as he becomes the seventh in 10 years on Monday.",
+      "link": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-20T01:11:51",
       "category": "民生"
     },
     {
       "source": "BBC News",
-      "title": "Russia launches major ballistic missile attack on Kyiv",
-      "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-20T00:19:12",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Chris Mason: Burnham is fifth PM in four years - now he'll try to buck the trend",
+      "summary": "Determined to hit the ground running, the former mayor hopes to maintain the leadership style he adopted in Manchester.",
+      "link": "https://www.bbc.co.uk/news/articles/cr7knml2y99o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-19T23:53:59",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Moment fans in Madrid celebrate World Cup win",
+      "summary": "Thousands of spectators watched Spain's victory in central Madrid on late Sunday night.",
+      "link": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-19T23:48:36",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "My fitness tracker knew I was pregnant before I did",
+      "summary": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
+      "link": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-19T23:09:18",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-19T19:45:12",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
       "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-19T08:37:48",
+      "date": "2026-07-19T18:25:40",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "'A 10-goal thriller': England fans react to 6-4 win over France",
-      "summary": "England's victory means the team finished third and secured their best World Cup result since 1966.",
-      "link": "https://www.bbc.co.uk/news/videos/cdj0337k0r7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-19T06:31:07",
+      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "summary": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-19T14:50:11",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Best England team for a long time? That's a fact, says Rice",
-      "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after they secure a third-placed finish at the World Cup.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-19T02:29:00",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "New EU border system tripling time at passport control, airport boss says",
-      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-19T01:47:59",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Watch: Highlights as England stun France 6-4 in third-place play-off",
-      "summary": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-19T01:12:34",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "The hidden cost of the night shift and how to sleep it off",
-      "summary": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
-      "link": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-19T00:01:55",
-      "category": "民生"
     },
     {
       "source": "CNN Top Stories",
