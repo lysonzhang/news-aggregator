@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-23T02:49:40.490934",
+  "update_time": "2026-07-23T10:23:43.664602",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-23T02:49:40.490881",
+      "date": "2026-07-23T10:23:43.664541",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-23T02:49:40.490875",
+      "date": "2026-07-23T10:23:43.664535",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-23T02:49:40.490859",
+      "date": "2026-07-23T10:23:43.664518",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-23T02:49:40.490845",
+      "date": "2026-07-23T10:23:43.664503",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-23T02:49:40.490833",
+      "date": "2026-07-23T10:23:43.664492",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-23T02:49:40.490826",
+      "date": "2026-07-23T10:23:43.664485",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-23T02:49:40.490808",
+      "date": "2026-07-23T10:23:43.664466",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-23T02:49:40.490794",
+      "date": "2026-07-23T10:23:43.664448",
       "category": "科技"
     },
     {
@@ -71,15 +71,31 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-23T02:49:40.103215",
+      "date": "2026-07-23T10:23:43.231465",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Houthis claim attack on oil tankers after US launches more strikes on Iran",
-      "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-23T02:33:04",
+      "title": "Friend of Manchester synagogue attacker jailed for plot on military base",
+      "summary": "Mohammad Bashir, 31, drove Jihad Al-Shamie on a trip to conduct hostile reconnaissance at a military base.",
+      "link": "https://www.bbc.co.uk/news/articles/cvg791nenvvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-23T10:21:10",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "'Every victim will feel the same,' says mother of PC Harper over early prison release",
+      "summary": "As the deadline for releases approaches, Andy Burnham has reignited a row over the legislation after he said he would review the plans.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rkl1778zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-23T10:17:35",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "UK millionaires ask Andy Burnham to tax them more",
+      "summary": "Former footballer Gary Lineker and producer Brian Eno write to the new PM telling him \"we can afford it\".",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-23T10:00:20",
       "category": "科技"
     },
     {
@@ -87,24 +103,32 @@
       "title": "US signs landmark nuclear deal with Saudi Arabia",
       "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
       "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-23T00:21:53",
+      "date": "2026-07-23T09:17:50",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Hope for thousands of MS patients as 'life-changing' drug now on NHS in England",
-      "summary": "Fampridine boosts nerve signals to make it easier to walk, with up to 5,000 eligible.",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-22T23:38:58",
-      "category": "民生"
+      "title": "Airport drop-off fees up by a third - here are the priciest",
+      "summary": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
+      "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-23T07:03:20",
+      "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Rain to return this weekend as parts of UK on brink of drought",
-      "summary": "Following weeks of mainly dry weather, we can welcome some rain this weekend, but it is not going to be that much, as Chris Fawkes explains.",
-      "link": "https://www.bbc.co.uk/weather/articles/cx2rvej7lk7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-22T23:32:02",
-      "category": "科技"
+      "title": "Police officer was violent rapist who attacked women over 14 years, BBC reveals",
+      "summary": "The BBC can reveal that detectives have so far uncovered nine victims of PC Alan Greer but many more are anticipated.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-23T05:12:30",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "BBC visits Iran school where strike killed 120 children",
+      "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
+      "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-23T04:49:24",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -113,30 +137,6 @@
       "link": "https://www.bbc.co.uk/news/articles/czj8zjnzw4po?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-22T21:51:18",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
-      "summary": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early.",
-      "link": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-22T15:43:55",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
-      "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-22T14:52:25",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Most bus fares in England to be capped at £2 from January",
-      "summary": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
-      "link": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-22T12:26:03",
-      "category": "民生"
     },
     {
       "source": "CNN Top Stories",
