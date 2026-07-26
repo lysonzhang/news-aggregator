@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-26T02:52:14.928696",
+  "update_time": "2026-07-26T10:02:16.635524",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-26T02:52:14.928616",
+      "date": "2026-07-26T10:02:16.635356",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-26T02:52:14.928610",
+      "date": "2026-07-26T10:02:16.635344",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-26T02:52:14.928592",
+      "date": "2026-07-26T10:02:16.635319",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-26T02:52:14.928577",
+      "date": "2026-07-26T10:02:16.635297",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-26T02:52:14.928566",
+      "date": "2026-07-26T10:02:16.635278",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-26T02:52:14.928558",
+      "date": "2026-07-26T10:02:16.635262",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-26T02:52:14.928540",
+      "date": "2026-07-26T10:02:16.635235",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-26T02:52:14.928520",
+      "date": "2026-07-26T10:02:16.635205",
       "category": "科技"
     },
     {
@@ -71,15 +71,47 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-26T02:52:14.507585",
+      "date": "2026-07-26T10:02:16.193705",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "More than 300,000 flee wildfires in France and Spain",
-      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-26T00:54:06",
+      "title": "Iran's 'sabre-rattling' should not intimidate UK, Wes Streeting says",
+      "summary": "The defence secretary warns Britain \"stands ready to respond to any attacks Iran wishes to wage against this country or our allies\".",
+      "link": "https://www.bbc.co.uk/news/articles/c8dng4lvrvqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-26T09:33:39",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-26T09:16:46",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
+      "summary": "Almost four decades on I delved into this complex case with fresh eyes - who really was behind the bombing?",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-26T08:48:18",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Andy Burnham rules out early election in exclusive BBC interview",
+      "summary": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election.",
+      "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-26T05:00:56",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+      "summary": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
+      "link": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-26T05:00:14",
       "category": "科技"
     },
     {
@@ -89,14 +121,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-25T23:31:49",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
-      "summary": "The deeper I dug, the more complicated Lockerbie became and there have been times that I don't know what to believe.",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-25T23:31:06",
-      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -113,30 +137,6 @@
       "link": "https://www.bbc.co.uk/sport/swimming/articles/cz053k47p0ko?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-25T22:37:49",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
-      "summary": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
-      "link": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-25T18:20:20",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Police investigate donations by Tice company to Reform UK",
-      "summary": "Britain Means Business, owned by the party’s deputy leader Richard Tice, made two donations of £250,000 in the run-up to the 2024 general election.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv4r5g55do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-25T18:04:50",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Tourists tell BBC how their holiday turned into race to escape fires",
-      "summary": "Families visiting France have told the BBC how their holidays have become evacuation missions.",
-      "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-25T14:18:32",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
