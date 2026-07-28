@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-28T02:35:55.503317",
+  "update_time": "2026-07-28T10:35:54.798923",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-28T02:35:55.503238",
+      "date": "2026-07-28T10:35:54.798851",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-28T02:35:55.503232",
+      "date": "2026-07-28T10:35:54.798845",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-28T02:35:55.503216",
+      "date": "2026-07-28T10:35:54.798828",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-28T02:35:55.503201",
+      "date": "2026-07-28T10:35:54.798813",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-28T02:35:55.503189",
+      "date": "2026-07-28T10:35:54.798802",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-28T02:35:55.503182",
+      "date": "2026-07-28T10:35:54.798794",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-28T02:35:55.503163",
+      "date": "2026-07-28T10:35:54.798776",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-28T02:35:55.503146",
+      "date": "2026-07-28T10:35:54.798757",
       "category": "科技"
     },
     {
@@ -71,7 +71,55 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-28T02:35:54.998005",
+      "date": "2026-07-28T10:35:54.370532",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
+      "summary": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-28T10:25:52",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
+      "summary": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-28T10:16:37",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Badenoch calls for emergency legislation to stop early release scheme",
+      "summary": "Last week Andy Burnham announced he was pausing early release plans for September after backlash from survivors and victims.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwxvw5ppw0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-28T10:01:59",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
+      "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-28T09:45:10",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+      "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-28T09:32:25",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-28T05:01:19",
       "category": "科技"
     },
     {
@@ -84,58 +132,10 @@
     },
     {
       "source": "BBC News",
-      "title": "BBC reports from outside court after judge rules singer D4vd will stand trial for murder",
-      "summary": "The body of 14-year-old Celeste Rivas Hernandez was found last September inside the trunk of a Tesla registered to singer D4vd.",
-      "link": "https://www.bbc.co.uk/news/videos/cy745x171rjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-28T01:29:25",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "New technical education routes to be offered at 14 in England",
-      "summary": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-28T00:57:43",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Love Island UK crowns winners of twist-filled series",
-      "summary": "For the first time in the history of the UK series, only three couples were in the final after several twists.",
-      "link": "https://www.bbc.co.uk/news/articles/c0rd5l4xlvro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-27T22:11:14",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
-      "summary": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-27T21:57:08",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Trump says Iran war talks taking place during lull in strikes",
-      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-27T21:10:56",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
-      "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-27T20:34:55",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
-      "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
-      "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-27T15:59:27",
+      "title": "Fourth heatwave grips parts of UK with 35C forecast",
+      "summary": "A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week.",
+      "link": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-28T00:18:58",
       "category": "实时热点"
     },
     {
