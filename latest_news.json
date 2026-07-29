@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-29T02:43:05.966189",
+  "update_time": "2026-07-29T10:40:01.957626",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-29T02:43:05.966113",
+      "date": "2026-07-29T10:40:01.957573",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-29T02:43:05.966107",
+      "date": "2026-07-29T10:40:01.957567",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-29T02:43:05.966090",
+      "date": "2026-07-29T10:40:01.957551",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-29T02:43:05.966074",
+      "date": "2026-07-29T10:40:01.957538",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-29T02:43:05.966063",
+      "date": "2026-07-29T10:40:01.957528",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-29T02:43:05.966056",
+      "date": "2026-07-29T10:40:01.957520",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-29T02:43:05.966037",
+      "date": "2026-07-29T10:40:01.957504",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-29T02:43:05.966018",
+      "date": "2026-07-29T10:40:01.957489",
       "category": "科技"
     },
     {
@@ -71,23 +71,47 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-29T02:43:05.109212",
+      "date": "2026-07-29T10:40:01.492252",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Burnham invites Tories and Lib Dems to social care talks",
-      "summary": "In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.",
-      "link": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-29T01:59:59",
-      "category": "民生"
+      "title": "Data centres could pay hundreds of millions in deposits for power demands",
+      "summary": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
+      "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29T09:50:04",
+      "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Iran and US trade strikes, shattering brief lull in fighting",
-      "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
       "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-29T00:51:45",
+      "date": "2026-07-29T09:39:56",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "OpenAI says its rogue AI tried to hack other companies",
+      "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29T08:49:27",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+      "summary": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
+      "link": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29T05:01:12",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
+      "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29T05:00:07",
       "category": "实时热点"
     },
     {
@@ -100,18 +124,10 @@
     },
     {
       "source": "BBC News",
-      "title": "The evidence that shows today's 20-somethings really do have it worse",
+      "title": "The evidence that shows today's 20-somethings really do have it worse than previous generations",
       "summary": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-28T23:52:23",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Amber heat health alerts to come into force as heatwave reaches 35C peak",
-      "summary": "Wednesday is set to be the hottest day of the week for many as a widespread fourth heatwave grips the UK.",
-      "link": "https://www.bbc.co.uk/weather/articles/cgq534n0w85o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-28T23:50:34",
       "category": "民生"
     },
     {
@@ -121,22 +137,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-28T23:00:15",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Burnham has no scope to increase borrowing, think tank warns",
-      "summary": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.",
-      "link": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-28T23:00:12",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Uefa and PM criticise Infantino World Cup plan",
-      "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-28T15:36:29",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
