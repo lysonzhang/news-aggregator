@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-07-31T02:53:19.938786",
+  "update_time": "2026-07-31T10:39:56.419105",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-07-31T02:53:19.938662",
+      "date": "2026-07-31T10:39:56.419026",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-07-31T02:53:19.938655",
+      "date": "2026-07-31T10:39:56.419019",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-07-31T02:53:19.938638",
+      "date": "2026-07-31T10:39:56.419002",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-07-31T02:53:19.938623",
+      "date": "2026-07-31T10:39:56.418988",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-07-31T02:53:19.938611",
+      "date": "2026-07-31T10:39:56.418976",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-07-31T02:53:19.938603",
+      "date": "2026-07-31T10:39:56.418968",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-07-31T02:53:19.938584",
+      "date": "2026-07-31T10:39:56.418949",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-07-31T02:53:19.938564",
+      "date": "2026-07-31T10:39:56.418912",
       "category": "科技"
     },
     {
@@ -71,72 +71,72 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-07-31T02:53:19.572537",
+      "date": "2026-07-31T10:39:56.039486",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "summary": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
-      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-31T02:41:09",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Anthropic says Claude AI hacked three firms during cyber tests",
-      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-31T01:31:14",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Crews tackling Suffolk wildfire say they are in better position",
-      "summary": "The Suffolk Fire and Rescue Service says \"the situation appears to be stabilising\" but at least 12 fire engines will remain on scene.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-31T01:12:58",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Is Infantino finished? Could Uefa boycott World Cup? What happens now?",
-      "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-30T21:40:21",
-      "category": "实时热点"
     },
     {
       "source": "BBC News",
       "title": "Andy Burnham to give regional mayors share of income tax",
       "summary": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
       "link": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-30T21:32:09",
+      "date": "2026-07-31T10:25:29",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "MP Diane Abbott readmitted into Labour Party after suspension",
-      "summary": "The long-serving MP apologises for past comments and says she has been issued with a \"formal warning\".",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-30T20:54:11",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "British Airways flight called mayday on approach to Heathrow",
-      "summary": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-30T17:34:26",
+      "title": "Sainsbury's agrees to sell Argos for £120m",
+      "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-31T10:19:47",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Watch: Thick smoke and flames as crews tackle Suffolk wildfire",
-      "summary": "Video shows thick plumes of smoke rising from the Suffolk coast, where a major incident is declared.",
-      "link": "https://www.bbc.co.uk/news/videos/cd0xvkr8y17o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-30T11:42:48",
+      "title": "Southport killer charged with prison attacks and possessing weapon",
+      "summary": "Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-31T10:19:21",
       "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Anthropic's Claude AI escapes test environment and hacks into three organisations",
+      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-31T10:18:54",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
+      "summary": "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-31T10:07:07",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "About 49,000 migrants enter Spanish territory of Ceuta, officials say",
+      "summary": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-31T09:51:38",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "British man accused of spying on Cyprus RAF base for Iran",
+      "summary": "Rashad Sultanov, a UK-Azerbaijan national, was arrested in Cyprus on suspicion of spying on RAF Akrotiri.",
+      "link": "https://www.bbc.co.uk/news/articles/ce853y7yq7yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-31T06:42:16",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Satellite images show impact of heatwaves and drought on UK landscape",
+      "summary": "BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-31T05:07:08",
+      "category": "民生"
     },
     {
       "source": "CNN Top Stories",
