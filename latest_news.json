@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-01T02:52:44.934348",
+  "update_time": "2026-08-01T10:00:03.035690",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-01T02:52:44.934232",
+      "date": "2026-08-01T10:00:03.035631",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-01T02:52:44.934225",
+      "date": "2026-08-01T10:00:03.035624",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-01T02:52:44.934209",
+      "date": "2026-08-01T10:00:03.035608",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-01T02:52:44.934194",
+      "date": "2026-08-01T10:00:03.035591",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-01T02:52:44.934183",
+      "date": "2026-08-01T10:00:03.035558",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-01T02:52:44.934175",
+      "date": "2026-08-01T10:00:03.035550",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-01T02:52:44.934157",
+      "date": "2026-08-01T10:00:03.035532",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-01T02:52:44.934138",
+      "date": "2026-08-01T10:00:03.035515",
       "category": "科技"
     },
     {
@@ -71,39 +71,55 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-01T02:52:44.528348",
+      "date": "2026-08-01T10:00:02.549540",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Victims of disgraced funeral boss demand industry regulation",
-      "summary": "Campaigners say \"full statutory regulation\" must be brought in following Legacy funerals scandal.",
-      "link": "https://www.bbc.co.uk/news/articles/cr49w13w9d0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-01T00:55:15",
-      "category": "科技"
+      "title": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
+      "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-01T09:13:00",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Fifa scraps controversial World Cup investment plan",
-      "summary": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+      "title": "Fifa scraps World Cup investment plan after outcry",
+      "summary": "Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had \"created divisions\" and would not go ahead.",
       "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-01T00:12:06",
-      "category": "实时热点"
+      "date": "2026-08-01T05:42:31",
+      "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-31T23:58:12",
-      "category": "实时热点"
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-01T05:01:56",
+      "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
+      "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-01T00:20:43",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "The 40-year search for the elusive 'pink zebra' seaweed",
       "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum.",
       "link": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-31T23:43:10",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "He thought a fitness supplement was safe but it sent him into psychosis",
+      "summary": "Daniel Murphy's mental health spiralled after he took missold drugs which had been mixed with steroids.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-31T23:42:03",
       "category": "民生"
     },
     {
@@ -120,22 +136,6 @@
       "summary": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public.",
       "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
       "date": "2026-07-31T22:46:44",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-31T17:03:47",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record",
-      "summary": "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record.",
-      "link": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-31T16:52:16",
       "category": "实时热点"
     },
     {
