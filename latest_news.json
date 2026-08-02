@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-02T02:51:33.936055",
+  "update_time": "2026-08-02T09:57:33.795768",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-02T02:51:33.935995",
+      "date": "2026-08-02T09:57:33.795712",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-02T02:51:33.935990",
+      "date": "2026-08-02T09:57:33.795705",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-02T02:51:33.935974",
+      "date": "2026-08-02T09:57:33.795688",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-02T02:51:33.935960",
+      "date": "2026-08-02T09:57:33.795674",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-02T02:51:33.935949",
+      "date": "2026-08-02T09:57:33.795663",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-02T02:51:33.935943",
+      "date": "2026-08-02T09:57:33.795655",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-02T02:51:33.935926",
+      "date": "2026-08-02T09:57:33.795637",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-02T02:51:33.935907",
+      "date": "2026-08-02T09:57:33.795614",
       "category": "科技"
     },
     {
@@ -71,28 +71,44 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-02T02:51:33.097822",
+      "date": "2026-08-02T09:57:33.027616",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-      "summary": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
       "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-02T02:44:34",
-      "category": "实时热点"
+      "date": "2026-08-02T09:10:51",
+      "category": "科技"
     },
     {
       "source": "BBC News",
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
       "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-02T00:02:18",
+      "date": "2026-08-02T05:40:42",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Does Love Island UK need to pull the US version for a chat?",
+      "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-02T00:55:16",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+      "summary": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-01T23:56:19",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Love Island has a problem, say fans: 'There hasn't been much love'",
       "summary": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again.",
       "link": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-01T23:46:48",
@@ -100,7 +116,7 @@
     },
     {
       "source": "BBC News",
-      "title": "I had a vasectomy in my 20s after the trauma of my sons' births",
+      "title": "Why I don't regret choosing a vasectomy in my 20s",
       "summary": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip.",
       "link": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-01T23:35:28",
@@ -108,7 +124,7 @@
     },
     {
       "source": "BBC News",
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "title": "How a shadowy gang is recruiting teenage hitmen to kill across Europe",
       "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
       "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-01T23:03:35",
@@ -116,27 +132,11 @@
     },
     {
       "source": "BBC News",
-      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
-      "summary": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight.",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-01T22:41:38",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "summary": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?",
+      "title": "After a bruising 24 hours, what next for Fifa and under-pressure Infantino?",
+      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-01T22:23:20",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-01T20:09:27",
-      "category": "科技"
     },
     {
       "source": "CNN Top Stories",
