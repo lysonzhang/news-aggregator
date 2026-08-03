@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-03T02:52:37.621383",
+  "update_time": "2026-08-03T11:23:42.584881",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-03T02:52:37.621277",
+      "date": "2026-08-03T11:23:42.584753",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-03T02:52:37.621271",
+      "date": "2026-08-03T11:23:42.584747",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-03T02:52:37.621254",
+      "date": "2026-08-03T11:23:42.584729",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-03T02:52:37.621239",
+      "date": "2026-08-03T11:23:42.584714",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-03T02:52:37.621228",
+      "date": "2026-08-03T11:23:42.584702",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-03T02:52:37.621220",
+      "date": "2026-08-03T11:23:42.584694",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-03T02:52:37.621202",
+      "date": "2026-08-03T11:23:42.584675",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-03T02:52:37.621181",
+      "date": "2026-08-03T11:23:42.584653",
       "category": "科技"
     },
     {
@@ -71,72 +71,72 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-03T02:52:37.213934",
+      "date": "2026-08-03T11:23:42.167011",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Heat health alerts in England as temperatures set to reach 34C",
-      "summary": "Temperatures are expected to reach 34C in some areas of England.",
-      "link": "https://www.bbc.co.uk/weather/articles/c17199dy4yxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-03T02:06:27",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-      "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-03T01:04:23",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-03T01:03:31",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "What are the 'luteal uglies'? And how they're affecting women",
-      "summary": "More women than ever are talking about the luteal phase on social media, but how does it actually affect you?",
-      "link": "https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-03T00:57:22",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Trump suggests new talks with Iran to begin on Monday",
-      "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-03T00:11:18",
+      "title": "Reform UK's Richard Tice investigated by parliamentary standards watchdog",
+      "summary": "Tice says the complaint related to a debate on Israeli influence and whether he should have referenced his register of interests.",
+      "link": "https://www.bbc.co.uk/news/articles/ceqe24qjgzdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-03T11:05:35",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "title": "Ariana Grande to take a break from public life citing 'endless, ongoing scrutiny'",
       "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
       "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-02T23:15:14",
+      "date": "2026-08-03T10:59:12",
       "category": "民生"
     },
     {
       "source": "BBC News",
-      "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts",
-      "summary": "Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.",
-      "link": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-02T21:45:22",
+      "title": "X Factor finalist denies murdering influencer by running her over with car",
+      "summary": "Gabrielle Carrington denies killing Klaudia Zakrzewska outside Inca nightclub in Soho on 19 April.",
+      "link": "https://www.bbc.co.uk/news/articles/c75gq56qrwno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-03T10:37:25",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Iran denies Trump's claim that new talks will begin on Monday",
+      "summary": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
+      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-03T10:23:35",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-      "summary": "The PM says enforcement is being increased but there also need to be more safe routes into the UK.",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-02T21:18:26",
+      "title": "English FA set to withdraw support for Fifa president Infantino",
+      "summary": "The English Football Association is set to join Wales in withdrawing backing for Infantino's bid to continue as Fifa president.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-03T07:49:33",
       "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Mother has ground-breaking surgery while pregnant to treat baby",
+      "summary": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
+      "link": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-03T05:02:25",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "How parents and pupils took on 'cruel', 'authoritarian' schools - and won",
+      "summary": "Discipline at an academy trust went too far - parents, pupils and former teachers tell BBC Panorama.",
+      "link": "https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-03T05:01:18",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-03T03:32:21",
+      "category": "科技"
     },
     {
       "source": "CNN Top Stories",
