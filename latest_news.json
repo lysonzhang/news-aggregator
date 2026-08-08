@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-08T01:42:11.730027",
+  "update_time": "2026-08-08T08:41:43.255605",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-08T01:42:11.729963",
+      "date": "2026-08-08T08:41:43.255547",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-08T01:42:11.729956",
+      "date": "2026-08-08T08:41:43.255541",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-08T01:42:11.729939",
+      "date": "2026-08-08T08:41:43.255524",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-08T01:42:11.729924",
+      "date": "2026-08-08T08:41:43.255510",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-08T01:42:11.729912",
+      "date": "2026-08-08T08:41:43.255498",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-08T01:42:11.729904",
+      "date": "2026-08-08T08:41:43.255490",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-08T01:42:11.729885",
+      "date": "2026-08-08T08:41:43.255472",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-08T01:42:11.729867",
+      "date": "2026-08-08T08:41:43.255454",
       "category": "科技"
     },
     {
@@ -71,8 +71,24 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-08T01:42:11.337831",
+      "date": "2026-08-08T08:41:42.206886",
       "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Widdecombe police reopen investigation into incident at Farage's home, BBC understands",
+      "summary": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year.",
+      "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-08T06:16:44",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "I went for a full body MOT and the results came as a shock",
+      "summary": "The private body scan industry is booming, but is it doing more harm than good?",
+      "link": "https://www.bbc.co.uk/news/articles/cx2dj82v1rko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-08T00:49:48",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -84,27 +100,27 @@
     },
     {
       "source": "BBC News",
-      "title": "Police officers investigated over handling of sex offender who murdered two women",
-      "summary": "Simon Levy was a serial sex offender who was being monitored by police when he killed two women.",
-      "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-07T23:56:11",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Infantino denies claims Uefa paid off alleged 'lover'",
-      "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-07T22:50:58",
+      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
+      "summary": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
+      "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-08T00:29:27",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
-      "summary": "No arrests were made at the time and the investigation was closed.",
-      "link": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-07T22:42:43",
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-07T23:23:12",
       "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
+      "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-07T22:50:58",
+      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -121,22 +137,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-07T22:07:00",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-      "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
-      "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-07T21:24:17",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Obesity rates have doubled in England since 1993 - what's going on?",
-      "summary": "Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993.",
-      "link": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-07T18:38:46",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
