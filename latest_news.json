@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-10T01:51:50.836532",
+  "update_time": "2026-08-10T09:22:13.498366",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-10T01:51:50.836465",
+      "date": "2026-08-10T09:22:13.498286",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-10T01:51:50.836460",
+      "date": "2026-08-10T09:22:13.498280",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-10T01:51:50.836447",
+      "date": "2026-08-10T09:22:13.498263",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-10T01:51:50.836435",
+      "date": "2026-08-10T09:22:13.498248",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-10T01:51:50.836426",
+      "date": "2026-08-10T09:22:13.498237",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-10T01:51:50.836420",
+      "date": "2026-08-10T09:22:13.498229",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-10T01:51:50.836405",
+      "date": "2026-08-10T09:22:13.498211",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-10T01:51:50.836389",
+      "date": "2026-08-10T09:22:13.498190",
       "category": "科技"
     },
     {
@@ -71,24 +71,56 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-10T01:51:50.206679",
+      "date": "2026-08-10T09:22:12.651107",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Brief relief ahead of fifth heatwave - as more areas could move into drought",
-      "summary": "While Monday won't be quite as hot as the weekend, temperatures will ramp up ahead of the fifth widespread heatwave of the year.",
-      "link": "https://www.bbc.co.uk/weather/articles/cvgx1k415v2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-10T01:36:10",
+      "title": "Thames Water gave finance boss a £1m signing-on fee",
+      "summary": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+      "link": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-10T08:57:54",
+      "category": "财金"
+    },
+    {
+      "source": "BBC News",
+      "title": "At least 13 killed in Ukrainian drone strike on Russia's Tatarstan region, officials say",
+      "summary": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-10T08:50:02",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Infantino has broken trust 'through deception', confederation presidents say",
+      "summary": "Fifa has been accused of breaking trust \"through deception\" in an open letter issued by Uefa, Concacaf and the Asian Football Confederation.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c78gl599jn4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-10T08:46:54",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "How much parents could save from September's new school uniform rules",
+      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+      "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-10T07:16:12",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Travelodge staff gave domestic abuser key to his victim's room",
+      "summary": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-10T05:00:07",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Schools in England have new rules on branded uniforms - will the changes save you money?",
       "summary": "Parents should not have to buy more than three branded items, plus a tie for secondary schools.",
       "link": "https://www.bbc.co.uk/news/articles/crrvq1y442vo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-10T00:44:11",
-      "category": "实时热点"
+      "category": "财金"
     },
     {
       "source": "BBC News",
@@ -97,38 +129,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-09T23:05:29",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
-      "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-09T23:01:39",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
-      "summary": "The verdict from most theatre critics is that it's a worthy addition to the epic fantasy franchise.",
-      "link": "https://www.bbc.co.uk/news/articles/czrjkm68xlno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-09T22:29:18",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-      "summary": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
-      "link": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-09T21:26:56",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-09T21:25:04",
-      "category": "实时热点"
     },
     {
       "source": "BBC News",
