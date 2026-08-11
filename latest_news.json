@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-11T01:48:19.256735",
+  "update_time": "2026-08-11T08:57:20.536777",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-11T01:48:19.256658",
+      "date": "2026-08-11T08:57:20.536716",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-11T01:48:19.256652",
+      "date": "2026-08-11T08:57:20.536711",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-11T01:48:19.256635",
+      "date": "2026-08-11T08:57:20.536697",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-11T01:48:19.256619",
+      "date": "2026-08-11T08:57:20.536686",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-11T01:48:19.256608",
+      "date": "2026-08-11T08:57:20.536677",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-11T01:48:19.256600",
+      "date": "2026-08-11T08:57:20.536671",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-11T01:48:19.256581",
+      "date": "2026-08-11T08:57:20.536657",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-11T01:48:19.256562",
+      "date": "2026-08-11T08:57:20.536640",
       "category": "科技"
     },
     {
@@ -71,31 +71,63 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-11T01:48:18.854945",
+      "date": "2026-08-11T08:57:20.028323",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Amber heat health alerts for almost all of England as next heatwave begins",
-      "summary": "The amber alerts will be in place until Friday evening to cover high and even extreme temperatures expected through this week.",
-      "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-11T01:38:14",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-10T23:03:52",
+      "title": "England set to eliminate hepatitis C",
+      "summary": "England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.",
+      "link": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-11T08:54:57",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "The lonely Chinese men being conned by fake brides",
-      "summary": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
-      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-10T22:02:21",
+      "title": "Amber heat health alerts in place for almost all of England as next heatwave hits",
+      "summary": "The amber alerts are in place until Friday evening to cover high and even extreme temperatures expected through this week.",
+      "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-11T08:00:06",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Trump says it would be 'terrible mistake' to remove Infantino",
+      "summary": "US President Donald Trump says it would be a \"terrible mistake\" if under-pressure Fifa president Gianni Infantino was ousted.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-11T05:30:03",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Jewish school heads spend more time on security than education, review finds",
+      "summary": "It's one of the findings from an independent review into antisemitism in schools and colleges.",
+      "link": "https://www.bbc.co.uk/news/articles/c98vm1n64ljo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-11T05:01:28",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-11T04:06:07",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
+      "summary": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-11T01:59:24",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+      "summary": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
+      "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-10T23:32:10",
       "category": "实时热点"
     },
     {
@@ -105,38 +137,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-10T21:33:51",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "At least 111 killed in Colombia's largest  earthquake in years",
-      "summary": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
-      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-10T21:24:29",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Canada flight cancelled after child refuses to wear seat belt",
-      "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
-      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-10T21:06:27",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "New Forest firefighting to continue overnight as cars abandoned",
-      "summary": "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-10T20:24:05",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "More than two-thirds of England now in drought",
-      "summary": "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status.",
-      "link": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-10T17:41:39",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
