@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-14T02:00:30.822025",
+  "update_time": "2026-08-14T09:07:03.114300",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-14T02:00:30.821989",
+      "date": "2026-08-14T09:07:03.114220",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-14T02:00:30.821985",
+      "date": "2026-08-14T09:07:03.114213",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-14T02:00:30.821973",
+      "date": "2026-08-14T09:07:03.114197",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-14T02:00:30.821962",
+      "date": "2026-08-14T09:07:03.114182",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-14T02:00:30.821955",
+      "date": "2026-08-14T09:07:03.114171",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-14T02:00:30.821950",
+      "date": "2026-08-14T09:07:03.114163",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-14T02:00:30.821938",
+      "date": "2026-08-14T09:07:03.114146",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-14T02:00:30.821926",
+      "date": "2026-08-14T09:07:03.114128",
       "category": "科技"
     },
     {
@@ -71,8 +71,56 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-14T02:00:30.330052",
+      "date": "2026-08-14T09:07:02.721515",
       "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Farage's by-election victory won't stop questions about finances",
+      "summary": "Nigel Farage triggered the Clacton by-election and the result was predictable - so what did he achieve?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14T08:18:02",
+      "category": "财金"
+    },
+    {
+      "source": "BBC News",
+      "title": "Watch: Video shows scale of devastation in Stourbridge",
+      "summary": "Multiple fires tore through the West Midlands on Thursday, with firefighters still working to control the blazes.",
+      "link": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14T07:26:53",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "'Unprecedented' rain in Japan kills six people",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14T07:00:56",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "New Zealand breaks ranks and withdraws Infantino support",
+      "summary": "New Zealand break rank with Oceania's football governing body to become the latest nation to withdraw support for Fifa president Gianni Infantino.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crl7wdkxdd7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14T06:19:11",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "NHS service admits data breach due to pager use",
+      "summary": "The medical data of transplant patients from across the UK was sent over an unencrypted pager network.",
+      "link": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14T05:12:44",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Watch: What happens if Luigi Mangione pleads guilty?",
+      "summary": "Mangione is accused of killing UnitedHealthcare CEO Brian Thompson in New York - but any plea deal in his federal case could impact a separate state trial.",
+      "link": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14T01:19:19",
+      "category": "民生"
     },
     {
       "source": "BBC News",
@@ -84,59 +132,11 @@
     },
     {
       "source": "BBC News",
-      "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
-      "summary": "Britain's Amy Hunt charges to 200m glory to secure her second European Championships gold medal - but the sprinter has her sights set on a historic quadruple in Birmingham.",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13T22:40:50",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Multiple fires destroy homes and cause devastation in West Midlands",
-      "summary": "The region's fire chief says the service took thousands of 999 calls across \"one of the most significant\" incidents in its history.",
-      "link": "https://www.bbc.co.uk/news/articles/c04k20w7lr6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13T22:29:57",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
       "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
       "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-13T21:43:47",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Two seriously hurt as passenger train derails in East Sussex",
-      "summary": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter.",
-      "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13T21:36:39",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
-      "summary": "Multiple fires burned across the West Midlands and destroyed homes.",
-      "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13T20:26:25",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13T20:12:17",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Son of 102-year-old says father died after being 'pushed off stage'",
-      "summary": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyl2zwp158o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-13T18:28:17",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
