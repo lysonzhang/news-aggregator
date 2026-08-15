@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-15T01:16:12.132135",
+  "update_time": "2026-08-15T08:29:06.615712",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-15T01:16:12.132080",
+      "date": "2026-08-15T08:29:06.615649",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-15T01:16:12.132073",
+      "date": "2026-08-15T08:29:06.615642",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-15T01:16:12.132057",
+      "date": "2026-08-15T08:29:06.615626",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-15T01:16:12.132043",
+      "date": "2026-08-15T08:29:06.615611",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-15T01:16:12.132031",
+      "date": "2026-08-15T08:29:06.615600",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-15T01:16:12.132023",
+      "date": "2026-08-15T08:29:06.615592",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-15T01:16:12.132005",
+      "date": "2026-08-15T08:29:06.615574",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-15T01:16:12.131990",
+      "date": "2026-08-15T08:29:06.615557",
       "category": "科技"
     },
     {
@@ -71,8 +71,48 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-15T01:16:11.608231",
+      "date": "2026-08-15T08:29:06.127372",
       "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "At least 20 dead after 7.7-magnitude earthquake strikes Indonesia",
+      "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15T08:21:01",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Heathrow Airport warns of disruption following floods",
+      "summary": "Water in the central terminal area means passengers cannot use roads to the airport",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15T08:16:07",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+      "summary": "His family said they were \"in shock\" to have lost him, adding a \"campaign of misinformation\" had been too much.",
+      "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15T07:53:48",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "summary": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15T05:01:13",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+      "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
+      "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15T03:58:31",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -84,51 +124,11 @@
     },
     {
       "source": "BBC News",
-      "title": "Hodgkinson beaten to European gold by rival Werro",
-      "summary": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final.",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14T22:14:41",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
-      "summary": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday.",
-      "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14T22:05:27",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Fires prompt national alert as 19 homes destroyed",
-      "summary": "The prime minister said 37 fires were currently burning across England and Wales",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14T20:56:53",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Derailed Essex to London train leads to travel chaos",
-      "summary": "More than 60 patients were checked over by ambulance crews but all were discharged at the scene.",
-      "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14T19:57:50",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14T19:20:43",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
-      "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
-      "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-14T19:17:16",
-      "category": "实时热点"
+      "title": "Many Canadians are boycotting the US - here's where they're travelling instead",
+      "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14T23:16:43",
+      "category": "财金"
     },
     {
       "source": "BBC News",
