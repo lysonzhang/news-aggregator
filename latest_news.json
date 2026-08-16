@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-16T01:20:33.199656",
+  "update_time": "2026-08-16T08:29:40.159895",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-16T01:20:33.199590",
+      "date": "2026-08-16T08:29:40.159808",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-16T01:20:33.199583",
+      "date": "2026-08-16T08:29:40.159802",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-16T01:20:33.199566",
+      "date": "2026-08-16T08:29:40.159785",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-16T01:20:33.199551",
+      "date": "2026-08-16T08:29:40.159770",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-16T01:20:33.199539",
+      "date": "2026-08-16T08:29:40.159758",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-16T01:20:33.199531",
+      "date": "2026-08-16T08:29:40.159750",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-16T01:20:33.199513",
+      "date": "2026-08-16T08:29:40.159731",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-16T01:20:33.199495",
+      "date": "2026-08-16T08:29:40.159713",
       "category": "科技"
     },
     {
@@ -71,21 +71,53 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-16T01:20:32.778178",
+      "date": "2026-08-16T08:29:39.350205",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
-      "summary": "Scotland Yard copied in all those who had signed up to receive a monthly update.",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-16T00:51:29",
-      "category": "实时热点"
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-16T08:23:38",
+      "category": "民生"
     },
     {
       "source": "BBC News",
-      "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
-      "summary": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
+      "title": "People who fled Stourbridge fires start to return home",
+      "summary": "Many families are only just discovering the extent of damage to their homes for the first time.",
+      "link": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-16T08:21:42",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "summary": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-16T08:14:56",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-16T07:58:02",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Ariana Grande leaves problems at home as her tour hits the UK",
+      "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-16T02:01:42",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
+      "summary": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
       "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-16T00:39:22",
       "category": "民生"
@@ -100,43 +132,11 @@
     },
     {
       "source": "BBC News",
-      "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
-      "summary": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-15T21:28:54",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
       "title": "Hunt wins third gold as Asher-Smith makes history",
       "summary": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
       "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-15T21:13:17",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-15T20:00:15",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Jason Arday death 'tragedy on so many levels' says PM",
-      "summary": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-15T17:43:04",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-      "summary": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
-      "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-15T17:33:38",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
