@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-18T01:15:33.496129",
+  "update_time": "2026-08-18T08:37:08.187636",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-18T01:15:33.496063",
+      "date": "2026-08-18T08:37:08.187559",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-18T01:15:33.496057",
+      "date": "2026-08-18T08:37:08.187553",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-18T01:15:33.496040",
+      "date": "2026-08-18T08:37:08.187536",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-18T01:15:33.496026",
+      "date": "2026-08-18T08:37:08.187521",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-18T01:15:33.496014",
+      "date": "2026-08-18T08:37:08.187510",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-18T01:15:33.496006",
+      "date": "2026-08-18T08:37:08.187502",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-18T01:15:33.495989",
+      "date": "2026-08-18T08:37:08.187484",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-18T01:15:33.495969",
+      "date": "2026-08-18T08:37:08.187466",
       "category": "科技"
     },
     {
@@ -71,7 +71,39 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-18T01:15:33.069017",
+      "date": "2026-08-18T08:37:07.789659",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-18T08:07:37",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-18T06:40:00",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Disabled people in England to get 24-hour free bus travel",
+      "summary": "The change, which has been welcomed by campaign groups, will come into effect in England from April.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-18T06:11:30",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-18T05:02:58",
       "category": "科技"
     },
     {
@@ -84,26 +116,10 @@
     },
     {
       "source": "BBC News",
-      "title": "Ex-workers tell of 'chaotic atmosphere' at new £400m prison",
-      "summary": "Former workers have described a \"chaotic atmosphere\" of under-staffing and inadequate training.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjxvp4vdqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-18T00:08:43",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
       "title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
       "summary": "Increasingly, young adults are taking anxiety medication to feel \"drunk\" at parties. But it's not a free lunch, experts warn.",
       "link": "https://www.bbc.co.uk/news/articles/c1d1lpl9vrxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-18T00:00:02",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
-      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-17T23:28:54",
       "category": "实时热点"
     },
     {
@@ -116,26 +132,10 @@
     },
     {
       "source": "BBC News",
-      "title": "Fifa executive leaves job three weeks after speaking out against Infantino plan",
+      "title": "Fifa official sacked after Infantino plan criticism",
       "summary": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-17T20:46:08",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-17T19:25:05",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
-      "summary": "Downing Street has declined to comment on the security breach, first reported by Politico.",
-      "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-17T18:51:22",
       "category": "实时热点"
     },
     {
