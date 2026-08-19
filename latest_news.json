@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-19T01:16:47.231310",
+  "update_time": "2026-08-19T08:37:46.355934",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-19T01:16:47.231234",
+      "date": "2026-08-19T08:37:46.355846",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-19T01:16:47.231227",
+      "date": "2026-08-19T08:37:46.355840",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-19T01:16:47.231209",
+      "date": "2026-08-19T08:37:46.355822",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-19T01:16:47.231194",
+      "date": "2026-08-19T08:37:46.355807",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-19T01:16:47.231182",
+      "date": "2026-08-19T08:37:46.355796",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-19T01:16:47.231174",
+      "date": "2026-08-19T08:37:46.355788",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-19T01:16:47.231155",
+      "date": "2026-08-19T08:37:46.355768",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-19T01:16:47.231136",
+      "date": "2026-08-19T08:37:46.355748",
       "category": "科技"
     },
     {
@@ -71,24 +71,56 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-19T01:16:46.776911",
+      "date": "2026-08-19T08:37:45.906456",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "summary": "Damascus called the attacks 'an unjustified act of aggression' that imperilled regional security.",
-      "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-19T00:48:16",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Is another UK heatwave on the way in September?",
+      "title": "Rain arrives for some but is another UK heatwave on the way in September?",
       "summary": "Some long range forecasts are suggesting autumn could be hotter and drier than average. Simon King explores whether a warm spell might be on the cards.",
       "link": "https://www.bbc.co.uk/weather/articles/c79g04899wno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-19T00:21:04",
+      "date": "2026-08-19T07:45:17",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-19T07:14:50",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-19T05:00:39",
       "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Demand for degree apprenticeships in England quadruples in three years",
+      "summary": "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-19T05:00:12",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
+      "summary": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-19T03:42:16",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
+      "summary": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-19T03:00:35",
+      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -101,41 +133,9 @@
     {
       "source": "BBC News",
       "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
-      "summary": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks for the first time about her husband's own diagnosis.",
+      "summary": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks about her husband's own diagnosis.",
       "link": "https://www.bbc.co.uk/news/articles/c80n48kg0vjo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-18T23:37:18",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Meta hooked children on Facebook and Instagram, court hears",
-      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-18T22:11:07",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Burnham received £345,000 of donations ahead of becoming PM",
-      "summary": "The prime minister lists his financial interests for the first time since returning to Parliament.",
-      "link": "https://www.bbc.co.uk/news/articles/c141d4l0mgko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-18T21:46:15",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
-      "summary": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-18T21:31:11",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Three dead after family get into difficulty in sea",
-      "summary": "A man, a woman and a teenage girl die, and a younger girl is in critical condition, after swimming off the Sussex coast.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-18T21:30:56",
       "category": "实时热点"
     },
     {
