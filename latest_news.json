@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-25T01:17:37.168325",
+  "update_time": "2026-08-25T08:42:25.866664",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-25T01:17:37.168280",
+      "date": "2026-08-25T08:42:25.866607",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-25T01:17:37.168275",
+      "date": "2026-08-25T08:42:25.866600",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-25T01:17:37.168263",
+      "date": "2026-08-25T08:42:25.866583",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-25T01:17:37.168252",
+      "date": "2026-08-25T08:42:25.866569",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-25T01:17:37.168244",
+      "date": "2026-08-25T08:42:25.866557",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-25T01:17:37.168239",
+      "date": "2026-08-25T08:42:25.866549",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-25T01:17:37.168226",
+      "date": "2026-08-25T08:42:25.866531",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-25T01:17:37.168210",
+      "date": "2026-08-25T08:42:25.866515",
       "category": "科技"
     },
     {
@@ -71,47 +71,39 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-25T01:17:36.645675",
+      "date": "2026-08-25T08:42:25.052553",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
+      "summary": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-25T08:25:36",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24T23:48:25",
+      "date": "2026-08-25T08:08:26",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "The grieving family who says the coroner's courts aren't working",
-      "summary": "One man's death highlights the growing strains on the UK's coroner's courts",
-      "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24T23:09:16",
-      "category": "科技"
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "summary": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
+      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-25T07:39:25",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
       "title": "Lockerbie bombing trial postponed days before it was due to start",
       "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
       "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24T22:13:36",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-      "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
-      "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24T22:13:20",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
-      "summary": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial drama The Industry.",
-      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24T21:58:49",
+      "date": "2026-08-25T06:59:03",
       "category": "实时热点"
     },
     {
@@ -119,23 +111,31 @@
       "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
       "summary": "Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.",
       "link": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24T17:53:40",
+      "date": "2026-08-25T05:52:21",
       "category": "民生"
     },
     {
       "source": "BBC News",
-      "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24T17:29:59",
+      "title": "Moment tornado tears through southern France",
+      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-25T00:16:35",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "The grieving family who say the coroners' courts aren't working",
+      "summary": "One man's death highlights the growing strains on the UK's coroner's courts",
+      "link": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-24T23:09:16",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "How the deadly A66 crash unfolded leaving seven dead",
-      "summary": "At 03:30 BST on Saturday, two police officers were killed when a Volkswagen Passat collided with their marked car on the A66 motorway.",
-      "link": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24T16:55:42",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
+      "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-24T22:13:20",
       "category": "实时热点"
     },
     {
