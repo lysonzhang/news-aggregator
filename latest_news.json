@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-08-29T13:39:24.403657",
+  "update_time": "2026-08-30T04:07:05.813923",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-08-29T13:39:24.403560",
+      "date": "2026-08-30T04:07:05.813871",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-08-29T13:39:24.403554",
+      "date": "2026-08-30T04:07:05.813866",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-08-29T13:39:24.403537",
+      "date": "2026-08-30T04:07:05.813852",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-08-29T13:39:24.403522",
+      "date": "2026-08-30T04:07:05.813840",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-08-29T13:39:24.403510",
+      "date": "2026-08-30T04:07:05.813831",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-08-29T13:39:24.403502",
+      "date": "2026-08-30T04:07:05.813824",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-08-29T13:39:24.403483",
+      "date": "2026-08-30T04:07:05.813809",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-08-29T13:39:24.403462",
+      "date": "2026-08-30T04:07:05.813793",
       "category": "科技"
     },
     {
@@ -71,23 +71,39 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-08-29T13:39:23.964499",
+      "date": "2026-08-30T04:07:05.446486",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Christian festival 'devastated' as man dies after sign falls",
-      "summary": "Police say at least six other people were also injured in the incident at the Big Church Festival.",
-      "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-29T13:06:03",
-      "category": "民生"
+      "title": "Iceland EU referendum on a knife edge as counting continues",
+      "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-30T03:57:01",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
-      "summary": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-29T13:02:27",
+      "title": "Rescue to continue overnight for 'in distress' vessel carrying five in the Channel",
+      "summary": "Several fishing vessels are assisting the Coastguard after reports of a boat \"in distress' off Plymouth.",
+      "link": "https://www.bbc.co.uk/news/articles/czeznrgyd1go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29T23:49:43",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "British heavyweight Moses Itauma stretchered out after shock defeat in gruelling world title fight",
+      "summary": "Filip Hrgovic shatters Moses Itauma's world-title dream as the Briton appears to punch himself out in an extraordinary heavyweight world-title contest in London.",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cpd0n46we13o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29T23:16:03",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "I've been to Gamescom six times - here's what excited me this year",
+      "summary": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
+      "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29T23:02:28",
       "category": "实时热点"
     },
     {
@@ -95,23 +111,15 @@
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-29T12:55:39",
+      "date": "2026-08-29T20:13:16",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
-      "summary": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-29T10:43:25",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
-      "summary": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-29T10:31:18",
+      "title": "Cleverly quits shadow cabinet to run for London mayor",
+      "summary": "The capital is not set to vote on a new mayor until 2028.",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29T16:24:39",
       "category": "实时热点"
     },
     {
@@ -128,14 +136,6 @@
       "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
       "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-28T21:17:54",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Satellite images reveal scale of flood devastation in Nepal villages",
-      "summary": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
-      "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-28T17:36:54",
       "category": "实时热点"
     },
     {
