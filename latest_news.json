@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-12T03:33:20.710374",
+  "update_time": "2026-09-12T11:59:51.355499",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-09-12T03:33:20.710304",
+      "date": "2026-09-12T11:59:51.355445",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-09-12T03:33:20.710297",
+      "date": "2026-09-12T11:59:51.355440",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-09-12T03:33:20.710281",
+      "date": "2026-09-12T11:59:51.355425",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-09-12T03:33:20.710266",
+      "date": "2026-09-12T11:59:51.355412",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-09-12T03:33:20.710254",
+      "date": "2026-09-12T11:59:51.355402",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-09-12T03:33:20.710246",
+      "date": "2026-09-12T11:59:51.355395",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-09-12T03:33:20.710228",
+      "date": "2026-09-12T11:59:51.355379",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-09-12T03:33:20.710213",
+      "date": "2026-09-12T11:59:51.355360",
       "category": "科技"
     },
     {
@@ -71,47 +71,55 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-09-12T03:33:20.319805",
+      "date": "2026-09-12T11:59:50.864284",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-12T02:29:49",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-12T11:00:34",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "MPs vote against fresh attempt to legalise assisted dying",
-      "summary": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
-      "link": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-12T01:12:31",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-      "summary": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-12T00:43:00",
+      "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+      "summary": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg",
+      "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-12T10:07:00",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Is a September heatwave forecast for the UK?",
-      "summary": "Temperatures will return to summerlike levels over the weekend, despite some heavy rain.",
-      "link": "https://www.bbc.co.uk/weather/articles/c70l8vgk4vzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-11T23:41:50",
-      "category": "科技"
+      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-12T00:35:50",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Reform receives record £36m donation from crypto billionaire",
-      "summary": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-11T23:27:18",
+      "title": "'Every museum in the world is stressing': Did the Louvre heist embolden thieves?",
+      "summary": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
+      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-12T00:24:08",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+      "summary": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
+      "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-12T00:16:16",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
+      "summary": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
+      "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-11T23:39:01",
       "category": "科技"
     },
     {
@@ -124,16 +132,8 @@
     },
     {
       "source": "BBC News",
-      "title": "President Trump to arrive in Ireland for two-day visit",
-      "summary": "Donald Trump will arrive on Saturday morning at Dublin Airport ahead of a two-day visit to Ireland.",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-11T23:01:52",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "summary": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
       "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-11T19:44:58",
       "category": "实时热点"
