@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-21T14:53:48.063389",
+  "update_time": "2026-09-22T03:44:42.061809",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-09-21T14:53:48.063326",
+      "date": "2026-09-22T03:44:42.061751",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-09-21T14:53:48.063319",
+      "date": "2026-09-22T03:44:42.061744",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-09-21T14:53:48.063302",
+      "date": "2026-09-22T03:44:42.061709",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-09-21T14:53:48.063287",
+      "date": "2026-09-22T03:44:42.061695",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-09-21T14:53:48.063275",
+      "date": "2026-09-22T03:44:42.061683",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-09-21T14:53:48.063268",
+      "date": "2026-09-22T03:44:42.061676",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-09-21T14:53:48.063250",
+      "date": "2026-09-22T03:44:42.061658",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-09-21T14:53:48.063234",
+      "date": "2026-09-22T03:44:42.061640",
       "category": "科技"
     },
     {
@@ -71,72 +71,72 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-09-21T14:53:47.662310",
+      "date": "2026-09-22T03:44:41.145871",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+      "summary": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-22T01:31:29",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "summary": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-22T01:04:16",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+      "summary": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-22T00:58:52",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Martha's Rule rolled out at every A&E department in England",
+      "summary": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+      "link": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-21T23:38:57",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "'My army dream was ended by childhood eye surgery'",
+      "summary": "Some 114,000 Army application were rejected on medical grounds in the past five years, Freedom of Information figures show.",
+      "link": "https://www.bbc.co.uk/news/articles/cvg7k5nv4kpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-21T23:19:10",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Watch: Police raid organised crime targets in Teesside",
+      "summary": "Cleveland Police carried out one of their biggest raids in years, following the A66 crash that left two officers dead.",
+      "link": "https://www.bbc.co.uk/news/videos/c9x2z1m45vlno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-21T20:21:29",
       "category": "科技"
     },
     {
       "source": "BBC News",
       "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-      "summary": "EasyJet says the latest incident \"once again calls into question the resilience\" of the system.",
+      "summary": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
       "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21T14:33:41",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21T14:30:38",
+      "date": "2026-09-21T20:21:18",
       "category": "科技"
     },
     {
       "source": "BBC News",
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti",
+      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
       "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-21T14:14:16",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21T14:06:12",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Southport killer accused of throwing boiling water mixed with sugar at prison officer",
-      "summary": "Axel Rudakubana is accused of grievous bodily harm and two other assaults of prison officers while serving a life sentence.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d79pzny7gjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21T12:32:42",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "British Museum bans visitors from photographing Bayeux Tapestry",
-      "summary": "Visitors stopping to take pictures of the 68m medieval embroidery were holding up others, prompting the rule change.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21T12:21:40",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
-      "summary": "Men who sexually abused them as underage girls are still walking around the city, they say.",
-      "link": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21T05:00:34",
-      "category": "财金"
-    },
-    {
-      "source": "BBC News",
-      "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
-      "summary": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.",
-      "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-21T04:00:05",
-      "category": "民生"
     },
     {
       "source": "CNN Top Stories",
