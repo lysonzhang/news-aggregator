@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-25T03:51:41.478495",
+  "update_time": "2026-09-25T13:19:08.450500",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-09-25T03:51:41.478442",
+      "date": "2026-09-25T13:19:08.450446",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-09-25T03:51:41.478437",
+      "date": "2026-09-25T13:19:08.450441",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-09-25T03:51:41.478422",
+      "date": "2026-09-25T13:19:08.450427",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-09-25T03:51:41.478409",
+      "date": "2026-09-25T13:19:08.450416",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-09-25T03:51:41.478400",
+      "date": "2026-09-25T13:19:08.450407",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-09-25T03:51:41.478394",
+      "date": "2026-09-25T13:19:08.450401",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-09-25T03:51:41.478378",
+      "date": "2026-09-25T13:19:08.450385",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-09-25T03:51:41.478361",
+      "date": "2026-09-25T13:19:08.450369",
       "category": "科技"
     },
     {
@@ -71,32 +71,64 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-09-25T03:51:40.929447",
+      "date": "2026-09-25T13:19:07.770122",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Watch: The world’s two most powerful men just met. How did it go?",
-      "summary": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
-      "link": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25T01:27:10",
+      "title": "Noah Woods left playground through gap in fence, inquest hears",
+      "summary": "Noah's mother tells parents to \"hold their children a little tighter and cherish every moment\".",
+      "link": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25T12:51:48",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-      "summary": "Lawyers for CNN, Politico and MS Now are seeking an emergency court hearing, saying the White House \"repeatedly violated\" the order.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25T01:10:35",
+      "title": "NHS to suspend staff suspected of snooping on patient records",
+      "summary": "There have been too many cases of staff abusing patient trust, and enough is enough, the head of the NHS in England says.",
+      "link": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25T12:47:03",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25T00:44:04",
+      "title": "Some BBC channels and radio stations may well have to close, director general says",
+      "summary": "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says.",
+      "link": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25T12:00:11",
       "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Daniel Thomas pleads not guilty after dinghy slashed",
+      "summary": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25T11:37:17",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Families failed by decision to bail sex offender to flat near playground, victims' commissioner says",
+      "summary": "Victims of Zafer Dogan were living close to the 32-year-old who took thousands of pictures of children at a playground from his bedroom window.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25T10:03:25",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Watch: Robbie Williams' surprise singalong after Peru gig cancelled",
+      "summary": "Robbie Williams gave an impromptu performance outside a hotel in Lima after his stadium concert was cancelled.",
+      "link": "https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25T09:20:04",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25T03:57:09",
+      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -105,38 +137,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-24T23:45:08",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
-      "summary": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
-      "link": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24T23:44:38",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
-      "summary": "The test means patients can start treatment sooner and are spared weeks of uncertainty.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24T23:44:00",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Hundreds of thousands expected in Paris for Pope's visit",
-      "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24T23:17:00",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Anti-migrant activist charged after dinghy slashed in Channel",
-      "summary": "Activist Daniel Thomas is charged in connection with an incident in the English Channel on Tuesday.",
-      "link": "https://www.bbc.co.uk/news/articles/crkgwe3egpzgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24T22:16:23",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
