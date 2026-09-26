@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-26T03:57:20.513383",
+  "update_time": "2026-09-26T12:42:54.940075",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-09-26T03:57:20.513329",
+      "date": "2026-09-26T12:42:54.940006",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-09-26T03:57:20.513322",
+      "date": "2026-09-26T12:42:54.939999",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-09-26T03:57:20.513306",
+      "date": "2026-09-26T12:42:54.939982",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-09-26T03:57:20.513291",
+      "date": "2026-09-26T12:42:54.939967",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-09-26T03:57:20.513280",
+      "date": "2026-09-26T12:42:54.939956",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-09-26T03:57:20.513271",
+      "date": "2026-09-26T12:42:54.939948",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-09-26T03:57:20.513253",
+      "date": "2026-09-26T12:42:54.939930",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-09-26T03:57:20.513238",
+      "date": "2026-09-26T12:42:54.939911",
       "category": "科技"
     },
     {
@@ -71,72 +71,72 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-09-26T03:57:20.018281",
+      "date": "2026-09-26T12:42:54.375018",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Prince Harry says it is 'great' to be back in Britain after six years in US",
+      "summary": "The Duke of Sussex also added that Prince Archie and Princess Lilibet are “happy in school” after returning to the UK a month ago.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26T12:26:53",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Met to re-examine CCTV from Jill Dando murder case",
+      "summary": "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999.",
+      "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26T11:54:24",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "How long can Labour's feel-good factor last?",
+      "summary": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26T11:22:03",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
+      "summary": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26T11:03:53",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "summary": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26T10:44:37",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Rayner criticises visa rule proposals ahead of Labour conference",
+      "summary": "The housing secretary says the government's plans to change wait times for permanent residency are unfair because they \"change the goalposts\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26T10:39:33",
       "category": "科技"
     },
     {
       "source": "BBC News",
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-26T03:49:41",
+      "date": "2026-09-26T05:03:09",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-26T02:50:56",
+      "title": "How the bare nails trend became a class issue",
+      "summary": "Bare nails - or nails that appear that way - are a growing trend. But is it as innocent as it seems?",
+      "link": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25T23:31:20",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-26T01:24:31",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25T23:05:40",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "E-bikes seized by police sold on at auction, BBC finds",
-      "summary": "Thousands are confiscated annually because they are suspected of being driven illegally or used in a crime - most are destroyed, but last year police sold at least 161.",
-      "link": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25T23:02:42",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Relegation? Titles stripped? Appeals? What next for Man City",
-      "summary": "It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25T20:48:18",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Man City found guilty of majority of 115 financial rule breaches",
-      "summary": "The club, which denies all wrongdoing, is accused of breaching the Premier League's financial rules between 2009 and 2018.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25T20:11:12",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "I'm not tempted to call an early election, Burnham says",
-      "summary": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-25T17:15:35",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
