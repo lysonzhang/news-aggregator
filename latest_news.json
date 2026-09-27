@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-09-27T04:08:16.952970",
+  "update_time": "2026-09-27T13:34:40.823247",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-09-27T04:08:16.952905",
+      "date": "2026-09-27T13:34:40.823188",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-09-27T04:08:16.952900",
+      "date": "2026-09-27T13:34:40.823181",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-09-27T04:08:16.952886",
+      "date": "2026-09-27T13:34:40.823165",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-09-27T04:08:16.952874",
+      "date": "2026-09-27T13:34:40.823150",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-09-27T04:08:16.952865",
+      "date": "2026-09-27T13:34:40.823139",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-09-27T04:08:16.952858",
+      "date": "2026-09-27T13:34:40.823131",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-09-27T04:08:16.952844",
+      "date": "2026-09-27T13:34:40.823113",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-09-27T04:08:16.952825",
+      "date": "2026-09-27T13:34:40.823096",
       "category": "科技"
     },
     {
@@ -71,32 +71,64 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-09-27T04:08:16.509415",
+      "date": "2026-09-27T13:34:40.299677",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
-      "summary": "The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead on Sunday after a series of legal challenges.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-27T03:59:00",
+      "title": "Ten NHS staff removed over Noah Woods data breach",
+      "summary": "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-27T13:25:27",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
-      "summary": "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-27T02:16:52",
+      "title": "Burnham proposes NHS-style social care system for England",
+      "summary": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\".",
+      "link": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-27T12:27:02",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Can you eat ultra-processed foods and still be healthy? A dietitian analysed my weekly shop",
-      "summary": "UPFs are linked to a range of health problems. But no-one seems to be able to agree why.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4knlj9v81o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-26T23:03:39",
-      "category": "民生"
+      "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+      "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-27T11:38:03",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-27T10:00:36",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "'Broken social care will in the end break the NHS,' says Burnham",
+      "summary": "Andy Burnham said the proposed care service would be laid out in detail and put on the ballot at the next general election.",
+      "link": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-27T09:52:49",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Big Bang wins over fans old and new at Tottenham Hotspur Stadium",
+      "summary": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
+      "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-27T08:51:23",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
+      "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26T23:04:08",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -104,38 +136,6 @@
       "summary": "The reality TV game show returns on Thursday, with 21 stars vying to win £100,000 for their chosen charity.",
       "link": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-26T23:01:47",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
-      "summary": "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
-      "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-26T23:00:42",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Republic of Ireland to wear black armbands for Israel game",
-      "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-26T19:59:00",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-      "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
-      "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-26T18:50:02",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Heathrow Airport warns third runway could be delayed by four years",
-      "summary": "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\".",
-      "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-26T16:32:42",
       "category": "科技"
     },
     {
