@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-03T13:06:41.096705",
+  "update_time": "2026-10-04T04:44:16.781392",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-10-03T13:06:41.096632",
+      "date": "2026-10-04T04:44:16.781332",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-10-03T13:06:41.096626",
+      "date": "2026-10-04T04:44:16.781325",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-10-03T13:06:41.096609",
+      "date": "2026-10-04T04:44:16.781308",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-10-03T13:06:41.096594",
+      "date": "2026-10-04T04:44:16.781293",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-10-03T13:06:41.096583",
+      "date": "2026-10-04T04:44:16.781282",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-10-03T13:06:41.096574",
+      "date": "2026-10-04T04:44:16.781274",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-10-03T13:06:41.096556",
+      "date": "2026-10-04T04:44:16.781256",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-10-03T13:06:41.096538",
+      "date": "2026-10-04T04:44:16.781239",
       "category": "科技"
     },
     {
@@ -71,31 +71,63 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-10-03T13:06:40.638826",
+      "date": "2026-10-04T04:44:16.381843",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-03T12:59:10",
+      "title": "Burnham scraps controversial plans to curb jury trials",
+      "summary": "The key policy idea announced by David Lammy when he was justice secretary will no longer go ahead.",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-04T03:07:30",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "The Celebrity Traitors connections that might surprise you",
+      "summary": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-04T01:31:32",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Homemade bombs part of alleged plot on Manchester's Jewish community, court told",
-      "summary": "The pair were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
-      "link": "https://www.bbc.co.uk/news/articles/cr62y3enq62zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-03T12:51:08",
+      "title": "When parenting advice becomes too much",
+      "summary": "Many parents feel overwhelmed by the amount of parenting information available",
+      "link": "https://www.bbc.co.uk/news/articles/cv4g5267jk8yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-04T01:24:05",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Protesters across Spain demand action over housing crisis",
-      "summary": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-03T12:16:15",
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-04T00:11:25",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-03T23:30:06",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
+      "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-03T21:03:22",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Man shot dead as families gather for memorial in London",
+      "summary": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
+      "link": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-03T20:42:05",
       "category": "科技"
     },
     {
@@ -103,40 +135,8 @@
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
       "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-03T11:20:21",
+      "date": "2026-10-03T14:27:33",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-      "summary": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
-      "link": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-03T11:07:52",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
-      "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-03T10:58:51",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
-      "summary": "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-03T10:27:57",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "EV drivers love their cars, but some passengers feel sick - this could be why",
-      "summary": "Motion sickness is caused by a mismatch in sensory cues and women and children are more susceptible, experts say.",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-03T02:36:19",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
