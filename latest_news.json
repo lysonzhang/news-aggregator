@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-06T05:18:28.634303",
+  "update_time": "2026-10-06T14:48:01.826691",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-10-06T05:18:28.634221",
+      "date": "2026-10-06T14:48:01.826620",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-10-06T05:18:28.634215",
+      "date": "2026-10-06T14:48:01.826613",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-10-06T05:18:28.634198",
+      "date": "2026-10-06T14:48:01.826597",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-10-06T05:18:28.634183",
+      "date": "2026-10-06T14:48:01.826582",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-10-06T05:18:28.634172",
+      "date": "2026-10-06T14:48:01.826570",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-10-06T05:18:28.634164",
+      "date": "2026-10-06T14:48:01.826562",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-10-06T05:18:28.634146",
+      "date": "2026-10-06T14:48:01.826543",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-10-06T05:18:28.634128",
+      "date": "2026-10-06T14:48:01.826526",
       "category": "科技"
     },
     {
@@ -71,71 +71,71 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-10-06T05:18:27.780693",
+      "date": "2026-10-06T14:48:01.328886",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
-      "summary": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told.",
-      "link": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-06T05:00:32",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-06T04:25:22",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Author and former politician Jeffrey Archer dies aged 86",
-      "summary": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-06T03:19:57",
+      "title": "PCs who used Taser and baton on amputee, 92, sacked",
+      "summary": "A disciplinary hearing finds both officers used unnecessary force on Donald Burgess at his care home.",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06T14:31:28",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Temperatures set to fall as rain and cloud sweep across UK",
-      "summary": "Tuesday will see cool air spread across the UK ahead of a noticeable drop in temperatures for all by Wednesday.",
-      "link": "https://www.bbc.co.uk/weather/articles/cr20w62w7q3jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-06T01:25:14",
+      "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+      "summary": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements.",
+      "link": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06T14:30:48",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "British national arrested in connection with RAF Fairford incident",
+      "summary": "It is the seventh arrest in connection to the incident near RAF Fairford last month.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06T13:54:24",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-      "summary": "The city's space boom raises questions about the role of the state in backing important industries.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-05T23:07:08",
-      "category": "科技"
+      "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
+      "summary": "The bestselling author and former politician died on Monday at the age of 86.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06T13:48:49",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
-      "summary": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-05T22:39:20",
-      "category": "科技"
+      "title": "Russia responds to US help offer after death of plague researcher",
+      "summary": "The US and Russia have each offered to help each other tackling infectious diseases.",
+      "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06T13:32:42",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "France braces for national day of school protests after injuries and mass arrests",
-      "summary": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-05T21:18:10",
-      "category": "民生"
+      "title": "Childminder who left 27 children alone in her home pleads guilty to neglect",
+      "summary": "Amanda Mathewson, 55, pleaded guilty to neglect and abandoning children in her care at Kirkcaldy Sheriff Court.",
+      "link": "https://www.bbc.co.uk/news/articles/cr9dzljq56ejo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06T11:35:38",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "King's funding for Andrew not to be used for legal action against police",
-      "summary": "Andrew Mountbatten-Windsor is taking action over search warrants issued ahead of his arrest in February.",
-      "link": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-05T18:48:40",
+      "title": "Watch: At the scene of student protests on the streets of Lille",
+      "summary": "The demonstrators are calling for better government investment in high schools.",
+      "link": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06T10:22:42",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Former German spy chief arrested for espionage and treason",
+      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-06T10:05:42",
       "category": "科技"
     },
     {
