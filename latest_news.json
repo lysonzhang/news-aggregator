@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-09T15:01:37.352962",
+  "update_time": "2026-10-10T04:45:58.429974",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-10-09T15:01:37.352890",
+      "date": "2026-10-10T04:45:58.429916",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-10-09T15:01:37.352883",
+      "date": "2026-10-10T04:45:58.429909",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-10-09T15:01:37.352866",
+      "date": "2026-10-10T04:45:58.429873",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-10-09T15:01:37.352851",
+      "date": "2026-10-10T04:45:58.429858",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-10-09T15:01:37.352839",
+      "date": "2026-10-10T04:45:58.429847",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-10-09T15:01:37.352831",
+      "date": "2026-10-10T04:45:58.429839",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-10-09T15:01:37.352813",
+      "date": "2026-10-10T04:45:58.429821",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-10-09T15:01:37.352794",
+      "date": "2026-10-10T04:45:58.429805",
       "category": "科技"
     },
     {
@@ -71,23 +71,63 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-10-09T15:01:36.880010",
+      "date": "2026-10-10T04:45:58.001329",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-      "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09T14:42:06",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-10T04:38:20",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-      "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
-      "link": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09T14:35:31",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-10T04:34:55",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Weekend showers and sunshine for UK ahead of warmer temperatures next week",
+      "summary": "With sunshine and showers forecast for the weekend, next week could see a return to some warmer temperatures but there will be gales for some.",
+      "link": "https://www.bbc.co.uk/weather/articles/cknv0qyv1d3po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-09T23:00:53",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+      "summary": "Episode four saw another contestant killed off, a ghoulish mission near a graveyard and a spooky twist.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-09T22:51:57",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-09T22:30:22",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-09T21:50:47",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "NI secretary to ban the Drumcree parade",
+      "summary": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+      "link": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-09T21:46:19",
       "category": "实时热点"
     },
     {
@@ -95,47 +135,7 @@
       "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
       "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
       "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09T13:59:57",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09T12:34:27",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
-      "summary": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion.",
-      "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09T12:29:02",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-      "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09T12:24:58",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09T11:35:00",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-      "summary": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09T10:52:34",
+      "date": "2026-10-09T19:26:53",
       "category": "科技"
     },
     {
