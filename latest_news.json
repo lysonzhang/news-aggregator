@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-11T14:42:43.323234",
+  "update_time": "2026-10-12T04:46:24.907175",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-10-11T14:42:43.323143",
+      "date": "2026-10-12T04:46:24.907123",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-10-11T14:42:43.323138",
+      "date": "2026-10-12T04:46:24.907117",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-10-11T14:42:43.323124",
+      "date": "2026-10-12T04:46:24.907101",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-10-11T14:42:43.323112",
+      "date": "2026-10-12T04:46:24.907086",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-10-11T14:42:43.323103",
+      "date": "2026-10-12T04:46:24.907074",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-10-11T14:42:43.323097",
+      "date": "2026-10-12T04:46:24.907066",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-10-11T14:42:43.323081",
+      "date": "2026-10-12T04:46:24.907048",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-10-11T14:42:43.323065",
+      "date": "2026-10-12T04:46:24.907035",
       "category": "科技"
     },
     {
@@ -71,15 +71,63 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-10-11T14:42:42.695661",
+      "date": "2026-10-12T04:46:24.527484",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-11T13:38:55",
+      "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+      "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-12T04:15:03",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Iran war threatens Healey's Budget plans, think tank warns",
+      "summary": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+      "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11T23:04:07",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11T22:45:58",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11T21:36:40",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Reform would suspend asylum system for parliamentary term if in government",
+      "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation.",
+      "link": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11T21:18:15",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11T19:08:04",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-11T17:27:24",
       "category": "科技"
     },
     {
@@ -88,54 +136,6 @@
       "summary": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday.",
       "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-11T12:38:02",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
-      "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-11T11:32:50",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "UK does not support Trump's Russia diesel deal, says Streeting",
-      "summary": "The defence secretary says the US and its allies need to increase pressure on Vladimir Putin to end the war with Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-11T11:00:49",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Buildings swept away as flash floods hit central Nepal",
-      "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
-      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-11T10:34:02",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
-      "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
-      "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-10T23:31:35",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "AI is creating a 'human premium' for art made by people, but will it hold?",
-      "summary": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
-      "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-10T23:18:16",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
-      "summary": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different.",
-      "link": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-10T23:17:03",
       "category": "科技"
     },
     {
