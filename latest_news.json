@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-17T03:21:54.166893",
+  "update_time": "2026-10-17T12:00:10.951671",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-10-17T03:21:54.166815",
+      "date": "2026-10-17T12:00:10.951601",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-10-17T03:21:54.166808",
+      "date": "2026-10-17T12:00:10.951594",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-10-17T03:21:54.166791",
+      "date": "2026-10-17T12:00:10.951578",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-10-17T03:21:54.166776",
+      "date": "2026-10-17T12:00:10.951563",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-10-17T03:21:54.166765",
+      "date": "2026-10-17T12:00:10.951551",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-10-17T03:21:54.166757",
+      "date": "2026-10-17T12:00:10.951543",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-10-17T03:21:54.166737",
+      "date": "2026-10-17T12:00:10.951524",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-10-17T03:21:54.166717",
+      "date": "2026-10-17T12:00:10.951506",
       "category": "科技"
     },
     {
@@ -71,24 +71,40 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-10-17T03:21:53.497056",
+      "date": "2026-10-17T12:00:10.378479",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+      "summary": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
+      "link": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-17T11:57:27",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-17T02:48:36",
+      "date": "2026-10-17T11:56:06",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Faisal Islam: What I learned from a week with the world's top finance leaders",
-      "summary": "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-17T01:59:48",
-      "category": "科技"
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-17T09:58:17",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Swinney insists 'stars are aligning' for Scottish independence",
+      "summary": "The first minister will tell delegates at the SNP conference in Aberdeen that 2026 has been a turning point in Scotland's \"journey to nationhood\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-17T08:17:18",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
@@ -100,19 +116,11 @@
     },
     {
       "source": "BBC News",
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-17T01:19:04",
+      "title": "Vapes were meant to help people quit cigarettes. Now a million non-smokers are vaping",
+      "summary": "More than one million people now vape who have never been smokers, according to the ONS.",
+      "link": "https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-16T23:49:16",
       "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-16T23:54:35",
-      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -124,19 +132,11 @@
     },
     {
       "source": "BBC News",
-      "title": "Five days, one briefing: How Katie Zacharia’s short tenure unfolded",
-      "summary": "The White House says the new press secretary is \"transitioning out\" of the role just days after taking the job.",
-      "link": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-16T20:28:59",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
-      "summary": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-16T20:08:07",
-      "category": "实时热点"
+      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-16T18:11:29",
+      "category": "民生"
     },
     {
       "source": "CNN Top Stories",
