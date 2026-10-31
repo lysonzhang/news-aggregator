@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-10-31T04:29:29.343177",
+  "update_time": "2026-10-31T14:21:25.240268",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-10-31T04:29:29.343105",
+      "date": "2026-10-31T14:21:25.240212",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-10-31T04:29:29.343097",
+      "date": "2026-10-31T14:21:25.240205",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-10-31T04:29:29.343063",
+      "date": "2026-10-31T14:21:25.240188",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-10-31T04:29:29.343049",
+      "date": "2026-10-31T14:21:25.240173",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-10-31T04:29:29.343037",
+      "date": "2026-10-31T14:21:25.240162",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-10-31T04:29:29.343029",
+      "date": "2026-10-31T14:21:25.240154",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-10-31T04:29:29.343011",
+      "date": "2026-10-31T14:21:25.240135",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-10-31T04:29:29.342993",
+      "date": "2026-10-31T14:21:25.240119",
       "category": "科技"
     },
     {
@@ -71,23 +71,39 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-10-31T04:29:28.876244",
+      "date": "2026-10-31T14:21:24.415534",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-31T13:45:34",
       "category": "科技"
     },
     {
       "source": "BBC News",
       "title": "Burnham 'open' to calls for slavery apology but not reparations",
-      "summary": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\".",
+      "summary": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
       "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-31T03:12:08",
-      "category": "科技"
+      "date": "2026-10-31T13:28:40",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
       "title": "Celebrity Traitors comes to a climax in nail-biting final",
       "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
       "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-31T02:18:59",
+      "date": "2026-10-31T10:54:56",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Watch: Traitor or faithful? Celebrities reveal their allegiances",
+      "summary": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
+      "link": "https://www.bbc.co.uk/news/videos/cmeq3ppg7wrno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-31T02:20:46",
       "category": "科技"
     },
     {
@@ -100,23 +116,15 @@
     },
     {
       "source": "BBC News",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-31T01:11:43",
-      "category": "科技"
+      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+      "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-31T01:32:33",
+      "category": "民生"
     },
     {
       "source": "BBC News",
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-31T00:40:43",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+      "title": "After 28 years and 36,000 miles, Karl Bushby is almost home",
       "summary": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
       "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss",
       "date": "2026-10-31T00:04:06",
@@ -124,19 +132,11 @@
     },
     {
       "source": "BBC News",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "summary": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30T22:11:52",
+      "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+      "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+      "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-30T23:26:16",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30T21:13:14",
-      "category": "财金"
     },
     {
       "source": "CNN Top Stories",
