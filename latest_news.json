@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-01T04:50:04.545410",
+  "update_time": "2026-11-01T14:47:12.508794",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-11-01T04:50:04.545346",
+      "date": "2026-11-01T14:47:12.508723",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-11-01T04:50:04.545340",
+      "date": "2026-11-01T14:47:12.508716",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-11-01T04:50:04.545324",
+      "date": "2026-11-01T14:47:12.508700",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-11-01T04:50:04.545309",
+      "date": "2026-11-01T14:47:12.508685",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-11-01T04:50:04.545297",
+      "date": "2026-11-01T14:47:12.508673",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-11-01T04:50:04.545290",
+      "date": "2026-11-01T14:47:12.508666",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-11-01T04:50:04.545272",
+      "date": "2026-11-01T14:47:12.508648",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-11-01T04:50:04.545253",
+      "date": "2026-11-01T14:47:12.508628",
       "category": "科技"
     },
     {
@@ -71,40 +71,64 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-11-01T04:50:03.973721",
+      "date": "2026-11-01T14:47:11.620794",
       "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+      "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-01T14:11:35",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-01T13:41:05",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "More than 300 arrests at Palestine Action support protest outside US embassy",
+      "summary": "More than 4,000 people have been arrested for supporting the group since it was proscribed in July 2025.",
+      "link": "https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-01T13:41:00",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-01T11:57:48",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Healey risks breaking minimum wage promise for younger workers",
+      "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+      "link": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-01T11:05:40",
+      "category": "实时热点"
     },
     {
       "source": "BBC News",
       "title": "Reeves says UK's future should be inside the EU",
       "summary": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
       "link": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01T02:57:34",
+      "date": "2026-11-01T10:47:03",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "Shops looted as German cost of living protests turn violent",
-      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01T01:59:57",
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "summary": "The supermodel and TV host provided a gory new shock at her New York event.",
+      "link": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-01T05:26:02",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
-      "summary": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix.",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01T01:37:50",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-      "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
-      "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-01T00:17:05",
-      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -113,30 +137,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-01T00:06:01",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
-      "summary": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
-      "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-31T22:56:15",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-31T19:22:26",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
-      "summary": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
-      "link": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-31T17:26:29",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
