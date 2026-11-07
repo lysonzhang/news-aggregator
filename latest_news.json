@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-06T15:43:26.605189",
+  "update_time": "2026-11-07T04:58:57.654491",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-11-06T15:43:26.605129",
+      "date": "2026-11-07T04:58:57.654413",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-11-06T15:43:26.605122",
+      "date": "2026-11-07T04:58:57.654406",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-11-06T15:43:26.605106",
+      "date": "2026-11-07T04:58:57.654389",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-11-06T15:43:26.605092",
+      "date": "2026-11-07T04:58:57.654374",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-11-06T15:43:26.605080",
+      "date": "2026-11-07T04:58:57.654363",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-11-06T15:43:26.605072",
+      "date": "2026-11-07T04:58:57.654355",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-11-06T15:43:26.605055",
+      "date": "2026-11-07T04:58:57.654337",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-11-06T15:43:26.605037",
+      "date": "2026-11-07T04:58:57.654317",
       "category": "科技"
     },
     {
@@ -71,7 +71,55 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-11-06T15:43:26.094889",
+      "date": "2026-11-07T04:58:57.261838",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Gladiator II stuntman sues over injuries from on-set explosion",
+      "summary": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07T01:38:49",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+      "summary": "A Black Sky event could leave millions without power, water and communications. So how prepared is the UK?",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07T00:31:54",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+      "summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T23:53:06",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T23:24:15",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+      "summary": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T21:26:56",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T18:32:16",
       "category": "科技"
     },
     {
@@ -79,24 +127,8 @@
       "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
       "summary": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
       "link": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T15:37:01",
+      "date": "2026-11-06T16:49:31",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Armed police called after boy hurt near Gloucester school",
-      "summary": "Police say a boy was taken to hospital with minor injuries.",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T15:22:06",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T15:04:46",
-      "category": "科技"
     },
     {
       "source": "BBC News",
@@ -104,38 +136,6 @@
       "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
       "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-06T15:02:03",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Childminder who left more than 20 children alone in her home jailed",
-      "summary": "Amanda Mathewson was caught neglecting children at her home in Dunfermline after being spied on by parents.",
-      "link": "https://www.bbc.co.uk/news/articles/c8qlnne7x9y1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T14:19:50",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction",
-      "summary": "Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to \"victim blaming\".",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T13:57:52",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
-      "summary": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T12:16:44",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "'Misleading' student loans information left out examples of higher-salary repayments",
-      "summary": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
-      "link": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-06T06:06:36",
       "category": "科技"
     },
     {
