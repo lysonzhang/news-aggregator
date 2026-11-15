@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-15T05:16:15.842443",
+  "update_time": "2026-11-15T15:25:21.593397",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-11-15T05:16:15.842385",
+      "date": "2026-11-15T15:25:21.593328",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-11-15T05:16:15.842380",
+      "date": "2026-11-15T15:25:21.593323",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-11-15T05:16:15.842363",
+      "date": "2026-11-15T15:25:21.593310",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-11-15T05:16:15.842348",
+      "date": "2026-11-15T15:25:21.593299",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-11-15T05:16:15.842336",
+      "date": "2026-11-15T15:25:21.593291",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-11-15T05:16:15.842329",
+      "date": "2026-11-15T15:25:21.593285",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-11-15T05:16:15.842311",
+      "date": "2026-11-15T15:25:21.593271",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-11-15T05:16:15.842293",
+      "date": "2026-11-15T15:25:21.593253",
       "category": "科技"
     },
     {
@@ -71,7 +71,47 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-11-15T05:16:15.354331",
+      "date": "2026-11-15T15:25:20.764043",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Staggered age of consent to be discussed after Brand case, minister says",
+      "summary": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
+      "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-15T15:08:30",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-15T14:56:21",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Minister backs legal right to job support for young people",
+      "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-15T13:06:15",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+      "summary": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-15T12:38:28",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+      "summary": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+      "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-15T06:01:46",
       "category": "科技"
     },
     {
@@ -84,59 +124,19 @@
     },
     {
       "source": "BBC News",
-      "title": "How to shake hands and make eye contact - the lessons preparing pupils for the world of work",
-      "summary": "Year 10 pupils are learning employability skills to reduce the number of young people who end up \"Neet\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-15T00:05:56",
-      "category": "民生"
-    },
-    {
-      "source": "BBC News",
-      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
-      "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-15T00:01:07",
-      "category": "财金"
-    },
-    {
-      "source": "BBC News",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-14T22:37:25",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Alleged Russell Brand rape victim wants age of consent law changed",
-      "summary": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
-      "link": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-14T22:37:14",
+      "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-15T00:06:51",
       "category": "实时热点"
     },
     {
       "source": "BBC News",
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-14T22:27:06",
-      "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
       "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
       "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-14T22:09:40",
       "category": "实时热点"
-    },
-    {
-      "source": "BBC News",
-      "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-      "summary": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
-      "link": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-14T12:22:43",
-      "category": "科技"
     },
     {
       "source": "CNN Top Stories",
