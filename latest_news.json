@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-11-17T06:56:52.802536",
+  "update_time": "2026-11-17T17:26:00.834660",
   "total": 33,
   "news": [
     {
@@ -7,7 +7,7 @@
       "title": "",
       "summary": "President and CEO of Computer & Communications Industry Association Matt Schruers joins The Lead.",
       "link": "https://www.cnn.com/videos/tech/2024/02/26/matt-schruers-supreme-court-social-media-censorship-free-speech-florida-texas-the-lead-jake-tapper.cnn",
-      "date": "2026-11-17T06:56:52.802406",
+      "date": "2026-11-17T17:26:00.834601",
       "category": "实时热点"
     },
     {
@@ -15,7 +15,7 @@
       "title": "",
       "summary": "CNN was at the inaugural event of one of the world's biggest tech shows, which casts a spotlight on the region's thriving startup ecosystem.",
       "link": "https://www.cnn.com/videos/tech/2024/03/01/exp-qatar-hosts-middle-east-web-summit-spc-intl.cnn",
-      "date": "2026-11-17T06:56:52.802397",
+      "date": "2026-11-17T17:26:00.834597",
       "category": "科技"
     },
     {
@@ -23,7 +23,7 @@
       "title": "",
       "summary": "A new government report warns that advanced Artificial Intelligence systems could pose an \"extinction-level threat\" to humans, and that the US must intervene. \"I think we should be mindful of it,\" says Ret. Admiral James Stavridis. But he adds, \"there have been big inventions in the past - the printing press, electricity, the internet - all of these have been a decried for the possibility of nefarious activity.\"",
       "link": "https://www.cnn.com/videos/tech/2024/03/16/smr-ai-threat-to-existence-of-humans.cnn",
-      "date": "2026-11-17T06:56:52.802363",
+      "date": "2026-11-17T17:26:00.834583",
       "category": "实时热点"
     },
     {
@@ -31,7 +31,7 @@
       "title": "",
       "summary": "Fareed hosts a spirited debate on the House bill that could lead to a US ban on TikTok, with the American Enterprise Institute's Kori Schake and Glen Gerstell, former general counsel for the National Security Agency. They discuss national-security risks the Chinese-owned app might pose given its many American users.",
       "link": "https://www.cnn.com/videos/tech/2024/03/17/gps-0317-tiktok-ban-in-the-us.cnn",
-      "date": "2026-11-17T06:56:52.802346",
+      "date": "2026-11-17T17:26:00.834571",
       "category": "实时热点"
     },
     {
@@ -39,7 +39,7 @@
       "title": "",
       "summary": "Grammy award-winning artist Ne-Yo joins CNN's Laura Coates to discuss the impact of artificial intelligence on the music industry.",
       "link": "https://www.cnn.com/videos/tech/2024/04/05/ne-yo-ai-impact-music-contd-lcl-vpx.cnn",
-      "date": "2026-11-17T06:56:52.802334",
+      "date": "2026-11-17T17:26:00.834562",
       "category": "实时热点"
     },
     {
@@ -47,7 +47,7 @@
       "title": "",
       "summary": "\"Human beings had a play-based childhood from time immemorial,\" says author Jonathan Haidt. What caused teen mental health decline is \"between 2010 and 2015, phones, screens come sweeping in...The most important thing that parents can do is delay the age at which their child gets immersed in internet culture.\"",
       "link": "https://www.cnn.com/videos/tech/2024/04/06/smr-haidt-anxious-generation.cnn",
-      "date": "2026-11-17T06:56:52.802325",
+      "date": "2026-11-17T17:26:00.834556",
       "category": "科技"
     },
     {
@@ -55,7 +55,7 @@
       "title": "",
       "summary": "In London, a mobile phone is stolen every 6 minutes. \"If I steal your phone, I'm stealing a thousand dollars,\" says digital identity expert David Birch. But \"If I can get into your bank account, I can steal $100,000. So that's what they really want.\" So there are important steps to take immediately - including turning off message preview.",
       "link": "https://www.cnn.com/videos/tech/2024/06/15/mobile-phone-theft-on-the-rise.cnn",
-      "date": "2026-11-17T06:56:52.802306",
+      "date": "2026-11-17T17:26:00.834541",
       "category": "实时热点"
     },
     {
@@ -63,7 +63,7 @@
       "title": "",
       "summary": "Airlines, banks, casinos, package deliveries, and emergency services around the world are recovering today from what could be \"the largest tech outage in history.\" the root cause was not a foreign agent but linked back to a software update issued by a u-s based cybersecurity firm called \"Crowd Strike.\"  Could this have been avoided?",
       "link": "https://www.cnn.com/videos/tech/2024/07/20/smr-clarke-on-summmer-2024-blackout.cnn",
-      "date": "2026-11-17T06:56:52.802284",
+      "date": "2026-11-17T17:26:00.834524",
       "category": "科技"
     },
     {
@@ -71,24 +71,64 @@
       "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
       "summary": "",
       "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
-      "date": "2026-11-17T06:56:52.108155",
+      "date": "2026-11-17T17:26:00.392499",
       "category": "科技"
     },
     {
       "source": "BBC News",
-      "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-      "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
-      "link": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T06:34:56",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Watch: How predatory Met detective's behaviour became increasingly extreme",
-      "summary": "The Metropolitan Police repeatedly missed opportunities to stop det insp Warren Arter, BBC Panorama has found.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49pjvqw8vo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T06:09:18",
+      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17T17:19:56",
       "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "William and Catherine walk green carpet in Mumbai for Earthshot Prize",
+      "summary": "The pair arrived at the ceremony where five £1m prizes will be awarded to projects aimed at solving climate challenges.",
+      "link": "https://www.bbc.co.uk/news/videos/c6x2ev29v87no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17T17:13:36",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17T16:56:38",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17T15:59:47",
+      "category": "实时热点"
+    },
+    {
+      "source": "BBC News",
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "summary": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike.",
+      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17T15:54:15",
+      "category": "科技"
+    },
+    {
+      "source": "BBC News",
+      "title": "Rooney says he considered taking his own life at Man Utd",
+      "summary": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17T14:09:19",
+      "category": "民生"
+    },
+    {
+      "source": "BBC News",
+      "title": "At a glance: Key proposals from Milburn's Neets report",
+      "summary": "A major review proposes widespread changes to help get young people into work across the UK.",
+      "link": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-17T11:31:40",
+      "category": "民生"
     },
     {
       "source": "BBC News",
@@ -97,46 +137,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6kgq8d779lro?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-17T06:02:28",
       "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T05:59:01",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-      "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T05:57:38",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Failed asylum seekers face removal without five-day notice period",
-      "summary": "Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance.",
-      "link": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T01:24:49",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "The young people caught up in Britain's Neets crisis",
-      "summary": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
-      "link": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-17T00:06:34",
-      "category": "科技"
-    },
-    {
-      "source": "BBC News",
-      "title": "Cass report author says she does not support draft conversion practices bill",
-      "summary": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
-      "link": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-16T22:08:03",
-      "category": "实时热点"
     },
     {
       "source": "CNN Top Stories",
